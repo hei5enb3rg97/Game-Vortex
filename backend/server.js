@@ -135,12 +135,26 @@ async function createOrderItemsTable() {
 }
 
 
-createUsersTable();
-createWishlistTable();
-createCartTable();
-createLibraryTable();
-createOrdersTable();
-createOrderItemsTable();
+async function startServer() {
+    try {
+        await createUsersTable();
+        await createWishlistTable();
+        await createCartTable();
+        await createLibraryTable();
+        await createOrdersTable();
+        await createOrderItemsTable();
+
+        app.listen(PORT, '0.0.0.0', () => {
+            console.log(`Server running on port ${PORT}`);
+        });
+
+    } catch (error) {
+        console.error("Server initialization failed:", error);
+        process.exit(1);
+    }
+}
+
+startServer();
 
 app.use(cors());
 app.use(express.json());
