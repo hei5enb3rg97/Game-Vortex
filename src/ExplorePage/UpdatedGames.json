@@ -1,0 +1,2392 @@
+[
+  {
+    "appid": 668580,
+    "name": "Atomic Heart",
+    "releaseDate": "20 Feb, 2023",
+    "price": "₹ 2,328",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "numPrice": 2328,
+    "image": "https://cdn2.steamgriddb.com/grid/d667282afbb5f942498fdfc512b93d1f.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668580/header.jpg?t=1776355944",
+    "icon": "https://cdn2.steamgriddb.com/icon/a460f140fec77598b2017f108563ff50.ico"
+  },
+  {
+    "appid": 1903340,
+    "name": "Clair Obscur: Expedition 33",
+    "releaseDate": "24 Apr, 2025",
+    "price": "₹ 2,999",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "numPrice": 2999,
+    "image": "https://cdn2.steamgriddb.com/grid/e7fff0c2739cf86c8aa5559eefe74220.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903340/be3305b02d4db0dffa3458537118423bf2792d7e/header.jpg?t=1773676780",
+    "icon": "https://cdn2.steamgriddb.com/icon/d0e174a35dbc2d6d3afb66ef379f87e7.ico"
+  },
+  {
+    "appid": 1282100,
+    "name": "Remnant 2",
+    "releaseDate": "25 Jul, 2023",
+    "price": "₹ 2,900",
+    "genres": [
+      "Action",
+      "RPG",
+      "Adventure"
+    ],
+    "numPrice": 2900,
+    "image": "https://cdn2.steamgriddb.com/grid/d1f0d59aa5eb5d4001c3dee59fc8820e.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282100/header.jpg?t=1764659459",
+    "icon": "https://cdn2.steamgriddb.com/icon/bd55122154b37dd5297d29c7794bed19.png"
+  },
+  {
+    "appid": 1627720,
+    "name": "Lies of P",
+    "releaseDate": "18 Sep, 2023",
+    "price": "₹ 3,700",
+    "genres": [
+      "Action",
+      "RPG",
+      "Adventure"
+    ],
+    "numPrice": 3700,
+    "image": "https://cdn2.steamgriddb.com/grid/48275392f5b7db75dbd692d35e92689c.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627720/header.jpg?t=1764565054",
+    "icon": "https://cdn2.steamgriddb.com/icon/7c3bf8ccf90b36eb118e9b95798708b2.ico"
+  },
+  {
+    "appid": 2215430,
+    "name": "Ghost of Tsushima Director's Cut",
+    "releaseDate": "16 May, 2024",
+    "price": "₹ 3,999",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 3999,
+    "image": "https://cdn2.steamgriddb.com/grid/25fdaf56f9818e10497f7dc070186bed.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
+    "icon": "https://cdn2.steamgriddb.com/icon/14842d88d35923228fc2b4d02d744dd2.ico"
+  },
+  {
+    "appid": 1593500,
+    "name": "God of War (2018)",
+    "releaseDate": "14 Jan, 2022",
+    "price": "₹ 3,299",
+    "genres": [
+      "Action",
+      "RPG",
+      "Adventure"
+    ],
+    "numPrice": 3299,
+    "image": "https://cdn2.steamgriddb.com/grid/5855660034a74cfe0e5fc8d57d17f4ac.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
+    "icon": "https://cdn2.steamgriddb.com/icon/b21f9f98829dea9a48fd8aaddc1f159d.png"
+  },
+  {
+    "appid": 2322010,
+    "name": "God of War Ragnarök",
+    "releaseDate": "19 Sep, 2024",
+    "price": "₹ 3,999",
+    "genres": [
+      "Action",
+      "RPG",
+      "Adventure"
+    ],
+    "numPrice": 3999,
+    "image": "https://cdn2.steamgriddb.com/grid/fd93fd1de50e084dd7d3b0b9f6950450.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg?t=1776465233",
+    "icon": "https://cdn2.steamgriddb.com/icon/f4666b1c34893ee557dccbfe3382e965.ico"
+  },
+  {
+    "appid": 292030,
+    "name": "The Witcher 3: Wild Hunt",
+    "releaseDate": "18 May, 2015",
+    "price": "₹ 1,000",
+    "genres": [
+      "RPG"
+    ],
+    "numPrice": 1000,
+    "image": "https://cdn2.steamgriddb.com/grid/4904f82c12cecf6ec070fe77d7e913ce.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ad9240e088f953a84aee814034c50a6a92bf4516/header.jpg?t=1768303991",
+    "icon": "https://cdn2.steamgriddb.com/icon/b9a8f4af85454f7c56c06f0a39e7ec23.png"
+  },
+  {
+    "appid": 1091500,
+    "name": "Cyberpunk 2077",
+    "releaseDate": "10 Dec, 2020",
+    "price": "₹ 2,999",
+    "genres": [
+      "RPG"
+    ],
+    "numPrice": 2999,
+    "image": "https://cdn2.steamgriddb.com/grid/f39b781760a403dedaa05587e8889c1a.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1769690377",
+    "icon": "https://cdn2.steamgriddb.com/icon/fbc018d6917843a5dfac1068c8bdd1b0.ico"
+  },
+  {
+    "appid": 1245620,
+    "name": "Elden Ring",
+    "releaseDate": "24 Feb, 2022",
+    "price": "₹ 3,599",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "numPrice": 3599,
+    "image": "https://cdn2.steamgriddb.com/grid/a0abf0396a718b8982fce0b80181d8cb.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1767883716",
+    "icon": "https://cdn2.steamgriddb.com/icon/3c7b933fa023d881921776fe47b69a0b.ico"
+  },
+  {
+    "appid": 814380,
+    "name": "Sekiro: Shadows Die Twice",
+    "releaseDate": "21 Mar, 2019",
+    "price": "₹ 4,999",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 4999,
+    "image": "https://cdn2.steamgriddb.com/grid/97771715c7dd7daf009feeb60c49915a.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662",
+    "icon": "https://cdn2.steamgriddb.com/icon/e732b84af8e033529e17550b87b64c50.ico"
+  },
+  {
+    "appid": 374320,
+    "name": "Dark Souls III",
+    "releaseDate": "11 Apr, 2016",
+    "price": "₹ 4,299",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 4299,
+    "image": "https://cdn2.steamgriddb.com/grid/9085f5ef67f2f7f0f38e869ffb5016a1.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg?t=1748630784",
+    "icon": "https://cdn2.steamgriddb.com/icon/cfa0860e83a4c3a763a7e62d825349f7.png"
+  },
+  {
+    "appid": 2054970,
+    "name": "Dragon's Dogma 2",
+    "releaseDate": "21 Mar, 2024",
+    "price": "₹ 4,199",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "numPrice": 4199,
+    "image": "https://cdn2.steamgriddb.com/grid/ce64a3f468e6acc2f43c981af59251c1.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/header.jpg?t=1768870094",
+    "icon": "https://cdn2.steamgriddb.com/icon/201c0f76a64e14fdfe74bdff9eb099f0.ico"
+  },
+  {
+    "appid": 1325200,
+    "name": "Nioh 2 - The Complete Edition",
+    "releaseDate": "5 Feb, 2021",
+    "price": "₹ 2,499",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "numPrice": 2499,
+    "image": "https://cdn2.steamgriddb.com/grid/50502027c1db52caa91b31b7a7349c1a.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325200/header.jpg?t=1775540023",
+    "icon": "https://cdn2.steamgriddb.com/icon/8c8053309e8638d59c4531d6da1e00be.png"
+  },
+  {
+    "appid": 15100,
+    "name": "Assassin's Creed 1",
+    "releaseDate": "9 Apr, 2008",
+    "price": "₹ 499",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 499,
+    "image": "https://cdn2.steamgriddb.com/grid/a5eb02f2e24db13fe5e4826cfd515b84.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/15100/header.jpg?t=1602600542",
+    "icon": "https://cdn2.steamgriddb.com/icon/54cd27bf2796a9e86ae6944ea1d94597.ico"
+  },
+  {
+    "appid": 33230,
+    "name": "Assassin's Creed II",
+    "releaseDate": "9 Mar, 2010",
+    "price": "₹ 499",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 499,
+    "image": "https://cdn2.steamgriddb.com/grid/30a53d130bbe822d676ababadbd3fffd.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33230/header.jpg?t=1682004272",
+    "icon": "https://cdn2.steamgriddb.com/icon/5fd69e4f4037bc5b912ebb242fe8821b.ico"
+  },
+  {
+    "appid": 48190,
+    "name": "Assassin's Creed Brotherhood",
+    "releaseDate": "22 Mar, 2011",
+    "price": "₹ 749",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 749,
+    "image": "https://cdn2.steamgriddb.com/grid/fc535d4ae8496bf8ed9e3cd8895f5b71.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48190/header.jpg?t=1681861086",
+    "icon": "https://cdn2.steamgriddb.com/icon/f78b6f0004f7094edb7e9a63cdabbe9c.ico"
+  },
+  {
+    "appid": 201870,
+    "name": "Assassin's Creed Revelations",
+    "releaseDate": "29 Nov, 2011",
+    "price": "₹ 999",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 999,
+    "image": "https://cdn2.steamgriddb.com/grid/105fb0578a9e90c458f69bad63c38709.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201870/header.jpg?t=1739176298",
+    "icon": "https://cdn2.steamgriddb.com/icon/1ea97de85eb634d580161c603422437f.ico"
+  },
+  {
+    "appid": 911400,
+    "name": "Assassin's Creed III Remastered",
+    "releaseDate": "29 Mar, 2019",
+    "price": "₹ 1,999",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 1999,
+    "image": "https://cdn2.steamgriddb.com/grid/f0ce59b6bf8e03499c788c348919a196.jpg",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/911400/header.jpg?t=1692034844",
+    "icon": "https://cdn2.steamgriddb.com/icon/aa77f89c289ac218f61edb95dd5f1209.png"
+  },
+  {
+    "appid": 242050,
+    "name": "Assassin's Creed IV Black Flag",
+    "releaseDate": "19 Nov, 2013",
+    "price": "₹ 1,999",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 1999,
+    "image": "https://cdn2.steamgriddb.com/grid/73273bfc99cf06ef1cbde5663b73704b.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/header.jpg?t=1777052740",
+    "icon": "https://cdn2.steamgriddb.com/icon/69f98b8fa682e5455b51a131aed3394d.png"
+  },
+  {
+    "appid": 289650,
+    "name": "Assassin's Creed Unity",
+    "releaseDate": "11 Nov, 2014",
+    "price": "₹ 1,499",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 1499,
+    "image": "https://cdn2.steamgriddb.com/grid/2947007280adf8859edffdaf48e6e558.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289650/header.jpg?t=1773328332",
+    "icon": "https://cdn2.steamgriddb.com/icon/72ca943134e67f7f77189054a68c95fc.ico"
+  },
+  {
+    "appid": 368500,
+    "name": "Assassin's Creed Syndicate",
+    "releaseDate": "18 Nov, 2015",
+    "price": "₹ 1,999",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 1999,
+    "image": "https://cdn2.steamgriddb.com/grid/742107eae660cba08fc8a4c04b854254.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368500/header.jpg?t=1766772262",
+    "icon": "https://cdn2.steamgriddb.com/icon/0f42a80e732fe8d8026c65a75217778d.ico"
+  },
+  {
+    "appid": 582160,
+    "name": "Assassin's Creed Origins",
+    "releaseDate": "26 Oct, 2017",
+    "price": "₹ 2,999",
+    "genres": [
+      "Action",
+      "RPG",
+      "Adventure"
+    ],
+    "numPrice": 2999,
+    "image": "https://cdn2.steamgriddb.com/grid/92a5d56731582f082f64d5dbd367c3fc.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582160/header.jpg?t=1777477123",
+    "icon": "https://cdn2.steamgriddb.com/icon/80a54030151e45fe4e025d32430c753a.png"
+  },
+  {
+    "appid": 812140,
+    "name": "Assassin's Creed Odyssey",
+    "releaseDate": "5 Oct, 2018",
+    "price": "₹ 2,999",
+    "genres": [
+      "Action",
+      "RPG",
+      "Adventure"
+    ],
+    "numPrice": 2999,
+    "image": "https://cdn2.steamgriddb.com/grid/58388f1a9b479863cb000d317ec750ea.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/header.jpg?t=1777476997",
+    "icon": "https://cdn2.steamgriddb.com/icon/a562e33200e09779194d2c2edf0d77f1.ico"
+  },
+  {
+    "appid": 2208920,
+    "name": "Assassin's Creed Valhalla",
+    "releaseDate": "6 Dec, 2022",
+    "price": "₹ 2,999",
+    "genres": [
+      "Action",
+      "RPG",
+      "Adventure"
+    ],
+    "numPrice": 2999,
+    "image": "https://cdn2.steamgriddb.com/grid/e2ea9e1f3d2660dc641143e35e7e6767.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208920/header.jpg?t=1754572990",
+    "icon": "https://cdn2.steamgriddb.com/icon/64a08e5f1e6c39faeb90108c430eb120.ico"
+  },
+  {
+    "appid": 2000950,
+    "name": "Call of Duty: Modern Warfare",
+    "releaseDate": "8 Mar, 2023",
+    "price": "₹ 4,999",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 4999,
+    "image": "https://cdn2.steamgriddb.com/grid/0bc22e1c47f26addd1907b4931e507b1.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000950/header.jpg?t=1778886798",
+    "icon": "https://cdn2.steamgriddb.com/icon/2245999e874c3ed961b9726d3231f66e.png"
+  },
+  {
+    "appid": 3595230,
+    "name": "Call of Duty: Modern Warfare II",
+    "releaseDate": "23 Oct, 2022",
+    "price": "₹ 5,200",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 5200,
+    "image": "https://cdn2.steamgriddb.com/grid/5cef43602bc7486da26ba5fbf4483f43.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595230/ce4d5e53b36cb9d3c4309d1df72bf8663bbbc7ef/header.jpg?t=1778886532",
+    "icon": "https://cdn2.steamgriddb.com/icon/93fd69b9d722d5eb9924a8e48cad4c32.ico"
+  },
+  {
+    "appid": 3595270,
+    "name": "Call of Duty: Modern Warfare III",
+    "releaseDate": "10 Nov, 2023",
+    "price": "₹ 5,599",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 5599,
+    "image": "https://cdn2.steamgriddb.com/grid/2d5cc87642543b37adc1c39cf44bf811.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595270/7d0f21912a075c33bbb5ea558100e187ceb234ac/header.jpg?t=1778886604",
+    "icon": "https://cdn2.steamgriddb.com/icon/c2ef3728d9ce090652f36c2e3d4783d0.ico"
+  },
+  {
+    "appid": 42700,
+    "name": "Call of Duty: Black Ops",
+    "releaseDate": "9 Nov, 2010",
+    "price": "₹ 2,650",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 2650,
+    "image": "https://cdn2.steamgriddb.com/grid/b9b065288cf8d4eba8b9ac1ad9c52aaf.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42700/header.jpg?t=1748040520",
+    "icon": "https://cdn2.steamgriddb.com/icon/7fdaf48b6b9b24cfe0823a1277862035.png"
+  },
+  {
+    "appid": 202970,
+    "name": "Call of Duty: Black Ops II",
+    "releaseDate": "12 Nov, 2012",
+    "price": "₹ 3,999",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 3999,
+    "image": "https://cdn2.steamgriddb.com/grid/853695e4fd475d6b482d94895c6b595d.jpg",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/202970/header.jpg?t=1748037715",
+    "icon": "https://cdn2.steamgriddb.com/icon/7909706a139205d2861549e24ac45dda.png"
+  },
+  {
+    "appid": 311210,
+    "name": "Call of Duty: Black Ops III",
+    "releaseDate": "5 Nov, 2015",
+    "price": "₹ 3,999",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 3999,
+    "image": "https://cdn2.steamgriddb.com/grid/8c2e22f6ebad4e7773fc0bd5eedd65de.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1748022663",
+    "icon": "https://cdn2.steamgriddb.com/icon/e355ad06c5a89f911fbb0aff2de52435.png"
+  },
+  {
+    "appid": 730,
+    "name": "Counter-Strike 2",
+    "releaseDate": "21 Aug, 2012",
+    "price": "Free to Play",
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "numPrice": 0,
+    "image": "https://cdn2.steamgriddb.com/grid/0662aa1719017e0efa5fa8daf0880c6e.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/header.jpg?t=1749053861",
+    "icon": "https://cdn2.steamgriddb.com/icon/fe772ff1261b820e437821342b445539.ico"
+  },
+  {
+    "appid": 440,
+    "name": "Team Fortress 2",
+    "releaseDate": "10 Oct, 2007",
+    "price": "Free to Play",
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "numPrice": 0,
+    "image": "https://cdn2.steamgriddb.com/grid/f64230dace882ba8b2d14ebfd24dc0a3.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/header.jpg?t=1757348372",
+    "icon": "https://cdn2.steamgriddb.com/icon/d35a34476be067a04fa756c8c0b7dfbd.ico"
+  },
+  {
+    "appid": 359550,
+    "name": "Rainbow Six Siege",
+    "releaseDate": "1 Dec, 2015",
+    "price": "₹ 999",
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "numPrice": 999,
+    "image": "https://cdn2.steamgriddb.com/grid/c32d0e02132a853fdf5b8010aa71602e.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/ac4f6daf0d8afee2754e9964077a9a7d5bdb8ab8/header_alt_assets_22.jpg?t=1779209046",
+    "icon": "https://cdn2.steamgriddb.com/icon/cc78875c52b3c4cda1ddc65357b3cbc2.ico"
+  },
+  {
+    "appid": 1237970,
+    "name": "Titanfall 2",
+    "releaseDate": "18 Jun, 2020",
+    "price": "₹ 1,499",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 1499,
+    "image": "https://cdn2.steamgriddb.com/grid/77830f686ff945a183bf945451139a54.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/header.jpg?t=1777412058",
+    "icon": "https://cdn2.steamgriddb.com/icon/8643c8e2107ba86c47371e037059c4b7.ico"
+  },
+  {
+    "appid": 379720,
+    "name": "Doom (2016)",
+    "releaseDate": "12 May, 2016",
+    "price": "₹ 1,599",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 1599,
+    "image": "https://cdn2.steamgriddb.com/grid/e6b2e5d385c1503fbd55b97ba5dc4b77.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/header.jpg?t=1750784856",
+    "icon": "https://cdn2.steamgriddb.com/icon/85d8ce590ad8981ca2c8286f79f59954.png"
+  },
+  {
+    "appid": 782330,
+    "name": "Doom Eternal",
+    "releaseDate": "19 Mar, 2020",
+    "price": "₹ 2,699",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 2699,
+    "image": "https://cdn2.steamgriddb.com/grid/c850eeb5c932d04621582f20d0160138.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782330/header.jpg?t=1755109910",
+    "icon": "https://cdn2.steamgriddb.com/icon/9813b270ed0288e7c0388f0fd4ec68f5.ico"
+  },
+  {
+    "appid": 1238820,
+    "name": "Battlefield 3",
+    "releaseDate": "11 Jun, 2020",
+    "price": "₹ 2,499",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 2499,
+    "image": "https://cdn2.steamgriddb.com/grid/9ed695254285a3b7379aa3e2694489e3.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238820/header.jpg?t=1777326004",
+    "icon": "https://cdn2.steamgriddb.com/icon/751f6b6b02bf39c41025f3bcfd9948ad.ico"
+  },
+  {
+    "appid": 1238810,
+    "name": "Battlefield V",
+    "releaseDate": "11 Jun, 2020",
+    "price": "₹ 2,999",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 2999,
+    "image": "https://cdn2.steamgriddb.com/grid/6d44d555d66bef025eb4c4f3b0355fc6.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/header.jpg?t=1772707365",
+    "icon": "https://cdn2.steamgriddb.com/icon/5a378f8490c8d6af8647a753812f6e31.ico"
+  },
+  {
+    "appid": 1517290,
+    "name": "Battlefield 2042",
+    "releaseDate": "19 Nov, 2021",
+    "price": "₹ 2,999",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual"
+    ],
+    "numPrice": 2999,
+    "image": "https://cdn2.steamgriddb.com/grid/2720a5a68d93c81033704613e28e1a5f.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/header.jpg?t=1777324359",
+    "icon": "https://cdn2.steamgriddb.com/icon/9119bd21dd1bca0a9ae6fd8379c237b9.png"
+  },
+  {
+    "appid": 581320,
+    "name": "Insurgency: Sandstorm",
+    "releaseDate": "12 Dec, 2018",
+    "price": "₹ 1,499",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 1499,
+    "image": "https://cdn2.steamgriddb.com/grid/f42fc75eac59b332ae535e1a6bcc0713.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/5cea6f39f733394deda9f85e36722d4ca5e3db5f/header.jpg?t=1777993658",
+    "icon": "https://cdn2.steamgriddb.com/icon/77c67132097f9b1ff028aed0eca8d21b.ico"
+  },
+  {
+    "appid": 393380,
+    "name": "Squad",
+    "releaseDate": "23 Sep, 2020",
+    "price": "₹ 1,499",
+    "genres": [
+      "Action",
+      "Indie",
+      "Massively Multiplayer",
+      "Strategy"
+    ],
+    "numPrice": 1499,
+    "image": "https://cdn2.steamgriddb.com/grid/15a0c610810751360d1943952a8b5193.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/aa36f6d31a74ca6b1949f35464305ac105e83c52/header_alt_assets_8.jpg?t=1778698936",
+    "icon": "https://cdn2.steamgriddb.com/icon/90a968fc0f70ab11c67b304474027f73.ico"
+  },
+  {
+    "appid": 1144200,
+    "name": "Ready or Not",
+    "releaseDate": "13 Dec, 2023",
+    "price": "₹ 1,995",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "numPrice": 1995,
+    "image": "https://cdn2.steamgriddb.com/grid/06206ba97d1ba310284651649f66a546.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/header.jpg?t=1775492374",
+    "icon": "https://cdn2.steamgriddb.com/icon/092b649487e732e7518908665d81cb07.ico"
+  },
+  {
+    "appid": 243470,
+    "name": "Watch Dogs",
+    "releaseDate": "26 May, 2014",
+    "price": "₹ 1,499",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 1499,
+    "image": "https://cdn2.steamgriddb.com/grid/df827da31d664707840bc6c221f22d72.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/243470/header.jpg?t=1739177057",
+    "icon": "https://cdn2.steamgriddb.com/icon/7d0c5dcce206d1a180df48ebcbd42e33.ico"
+  },
+  {
+    "appid": 307690,
+    "name": "Sleeping Dogs: Definitive Edition",
+    "releaseDate": "8 Oct, 2014",
+    "price": "₹ 724",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Racing"
+    ],
+    "numPrice": 724,
+    "image": "https://cdn2.steamgriddb.com/grid/56c50dde3197cf5381d18bc4345e5f1b.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307690/header.jpg?t=1766070052",
+    "icon": "https://cdn2.steamgriddb.com/icon/c5af1dfde10402285102771ad64b3dac.png"
+  },
+  {
+    "appid": 1174180,
+    "name": "Red Dead Redemption 2",
+    "releaseDate": "5 Dec, 2019",
+    "price": "₹ 3,199",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 3199,
+    "image": "https://cdn2.steamgriddb.com/grid/a5bff26f8f2adb1ec19661b4c4bc9f86.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+    "icon": "https://cdn2.steamgriddb.com/icon/f6ad645a331d5e5e95938c1439ba385d.ico"
+  },
+  {
+    "appid": 271590,
+    "name": "Grand Theft Auto V",
+    "releaseDate": "13 Apr, 2015",
+    "price": "₹ 2,321",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 2321,
+    "image": "https://cdn2.steamgriddb.com/grid/af0a25e27510f77d97634a6bbe653b13.jpg",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg?t=1765387725",
+    "icon": "https://cdn2.steamgriddb.com/icon/84ddfb34126fc3a48ee38d7044e87276.ico"
+  },
+  {
+    "appid": 10150,
+    "name": "Prototype",
+    "releaseDate": "10 Jun, 2009",
+    "price": "₹ 1,324",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 1324,
+    "image": "https://cdn2.steamgriddb.com/grid/b22f88e3aaffe96b7f562526237db167.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10150/header.jpg?t=1655760765",
+    "icon": "https://cdn2.steamgriddb.com/icon/13f434347c0474d7d9984943b75dac6a.png"
+  },
+  {
+    "appid": 1941540,
+    "name": "Mafia: The Old Country",
+    "releaseDate": "7 Aug, 2025",
+    "price": "₹ 2,743",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 2743,
+    "image": "https://cdn2.steamgriddb.com/grid/802bb5d12a44ebb63c0a48a5bf9ba380.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/d06980bb8f41737ca68da8eed40079347db09c84/header.jpg?t=1764177372",
+    "icon": "https://cdn2.steamgriddb.com/icon/cef52d319ca6225107b2a1ef43372b05.png"
+  },
+  {
+    "appid": 1817070,
+    "name": "Marvel's Spider-Man Remastered",
+    "releaseDate": "12 Aug, 2022",
+    "price": "₹ 3,999",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual"
+    ],
+    "numPrice": 3999,
+    "image": "https://cdn2.steamgriddb.com/grid/a85d6bc329aeaf43fe76fbb48b8b9325.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1763569047",
+    "icon": "https://cdn2.steamgriddb.com/icon/67ed992a321bccb166b8c25ad190f33c.ico"
+  },
+  {
+    "appid": 1817190,
+    "name": "Marvel's Spider-Man: Miles Morales",
+    "releaseDate": "18 Nov, 2022",
+    "price": "₹ 3,299",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 3299,
+    "image": "https://cdn2.steamgriddb.com/grid/59c4be412494201dbe6121b901f1e446.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/header.jpg?t=1763569499",
+    "icon": "https://cdn2.steamgriddb.com/icon/91caf8baf768a5cc1a69f73a26e173dd.ico"
+  },
+  {
+    "appid": 2651280,
+    "name": "Marvel's Spider-Man 2",
+    "releaseDate": "30 Jan, 2025",
+    "price": "₹ 3,999",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 3999,
+    "image": "https://cdn2.steamgriddb.com/grid/2572510b22e85f491270becf2fc166f7.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg?t=1763569811",
+    "icon": "https://cdn2.steamgriddb.com/icon/ffb76153ee2fdd67ae416ca6df1cc4bd.ico"
+  },
+  {
+    "appid": 1888930,
+    "name": "The Last of Us Part I",
+    "releaseDate": "28 Mar, 2023",
+    "price": "₹ 3,999",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 3999,
+    "image": "https://cdn2.steamgriddb.com/grid/769fda94fbd3dd567d4cf6e296226fc8.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888930/header.jpg?t=1750959031",
+    "icon": "https://cdn2.steamgriddb.com/icon/40a82d2bc17d9aa6c8ba7f0067d83a83.ico"
+  },
+  {
+    "appid": 2531310,
+    "name": "The Last of Us Part II Remastered",
+    "releaseDate": "3 Apr, 2025",
+    "price": "₹ 3,999",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 3999,
+    "image": "https://cdn2.steamgriddb.com/grid/90db797412bd831b8d179af5816ad18f.jpg",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1750959180",
+    "icon": "https://cdn2.steamgriddb.com/icon/2a5e1c52752a71a87c5c2cc5d594dfc0.png"
+  },
+  {
+    "appid": 1659420,
+    "name": "Uncharted: Legacy of Thieves Collection",
+    "releaseDate": "19 Oct, 2022",
+    "price": "₹ 3,299",
+    "genres": [
+      "Adventure"
+    ],
+    "numPrice": 3299,
+    "image": "https://cdn2.steamgriddb.com/grid/eae7437c8206a4f30a3c676e49cb9037.jpg",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1659420/header.jpg?t=1778524317",
+    "icon": "https://cdn2.steamgriddb.com/icon/eb34af4ce823816fb07be4c925656a10.ico"
+  },
+  {
+    "appid": 1172620,
+    "name": "Sea of Thieves",
+    "releaseDate": "3 Jun, 2020",
+    "price": "₹ 3,499",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 3499,
+    "image": "https://cdn2.steamgriddb.com/grid/fc28dd210d52ecb0135730aa1d151b1b.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1775816492",
+    "icon": "https://cdn2.steamgriddb.com/icon/a3de6497a244badb71313dd586fdacf8.ico"
+  },
+  {
+    "appid": 230410,
+    "name": "Warframe",
+    "releaseDate": "25 Mar, 2013",
+    "price": "Free to Play",
+    "genres": [
+      "Action",
+      "RPG",
+      "Free To Play"
+    ],
+    "numPrice": 0,
+    "image": "https://cdn2.steamgriddb.com/grid/4e2a3c5332c92654090b105e3723479f.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/60ce7425b864dd3c0dd855bfc66004c6f9ca4844/header.jpg?t=1778595605",
+    "icon": "https://cdn2.steamgriddb.com/icon/83adc9225e4deb67d7ce42d58fe5157c.ico"
+  },
+  {
+    "appid": 578080,
+    "name": "PUBG: Battlegrounds",
+    "releaseDate": "21 Dec, 2017",
+    "price": "Free to Play",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "Free To Play"
+    ],
+    "numPrice": 0,
+    "image": "https://cdn2.steamgriddb.com/grid/13816ba0dd3a36209cbc3cfef265dc7c.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg?t=1778634253",
+    "icon": "https://cdn2.steamgriddb.com/icon/e997d64448e4f1b698c98432ea82a5ae.ico"
+  },
+  {
+    "appid": 1172470,
+    "name": "Apex Legends",
+    "releaseDate": "4 Nov, 2020",
+    "price": "Free to Play",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Free To Play"
+    ],
+    "numPrice": 0,
+    "image": "https://cdn2.steamgriddb.com/grid/0d7a3aef18b1eb97e70a5148e2a2646f.jpg",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/0bd74245b869287a2dc7f682e6013f7ed08d98e3/header.jpg?t=1778502442",
+    "icon": "https://cdn2.steamgriddb.com/icon/9c926c8729189f4e871a4fed07a012e5.png"
+  },
+  {
+    "appid": 1085660,
+    "name": "Destiny 2",
+    "releaseDate": "1 Oct, 2019",
+    "price": "Free to Play",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Free To Play"
+    ],
+    "numPrice": 0,
+    "image": "https://cdn2.steamgriddb.com/grid/5e93ee9a764cf2326a92f61f8fefdb1f.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/header.jpg?t=1765904462",
+    "icon": "https://cdn2.steamgriddb.com/icon/9908279ebbf1f9b250ba689db6a0222b.ico"
+  },
+  {
+    "appid": 1240440,
+    "name": "Halo Infinite",
+    "releaseDate": "15 Nov, 2021",
+    "price": "Free to Play",
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "numPrice": 0,
+    "image": "https://cdn2.steamgriddb.com/grid/5e6f4ecb84c2cef4254267d8479a3fb4.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240440/2262ffb4f1659df1c1cbf2c70af40560b4fa12e4/header.jpg?t=1774464322",
+    "icon": "https://cdn2.steamgriddb.com/icon/f52166cd701447355be87cbf41d31ca4.ico"
+  },
+  {
+    "appid": 2073850,
+    "name": "The Finals",
+    "releaseDate": "7 Dec, 2023",
+    "price": "Free to Play",
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "numPrice": 0,
+    "image": "https://cdn2.steamgriddb.com/grid/a220b18f7302ecd6c80092293dec3138.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073850/699da40c69cc8b1b3f86c89a6a925b04535672da/header.jpg?t=1778695694",
+    "icon": "https://cdn2.steamgriddb.com/icon/c798707d32dbc54e1076d05963029a00.ico"
+  },
+  {
+    "appid": 553850,
+    "name": "Helldivers 2",
+    "releaseDate": "8 Feb, 2024",
+    "price": "₹ 2,499",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 2499,
+    "image": "https://cdn2.steamgriddb.com/grid/0e3900565e35576ba54faf1c53093932.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/f11c258b04a5e3e7771c1bab60f324ebf6c6c6fb/header.jpg?t=1770747641",
+    "icon": "https://cdn2.steamgriddb.com/icon/a6cf2b02bf0a6a7494bd13b1257ad2c2.ico"
+  },
+  {
+    "appid": 381210,
+    "name": "Dead by Daylight",
+    "releaseDate": "14 Jun, 2016",
+    "price": "₹ 849",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 849,
+    "image": "https://cdn2.steamgriddb.com/grid/e094a58c3495647287f75da5f6a7f6f3.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/8512297f0f02ec3e592f45b21779f61624941964/header_alt_assets_6.jpg?t=1778880603",
+    "icon": "https://cdn2.steamgriddb.com/icon/735ddec196a9ca5745c05bec0eaa4bf9.png"
+  },
+  {
+    "appid": 550,
+    "name": "Left 4 Dead 2",
+    "releaseDate": "16 Nov, 2009",
+    "price": "₹ 525",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 525,
+    "image": "https://cdn2.steamgriddb.com/grid/209cc9ba9f99c6cb5b90d7587ae5c644.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg?t=1772742214",
+    "icon": "https://cdn2.steamgriddb.com/icon/8efb100a295c0c690931222ff4467bb8.png"
+  },
+  {
+    "appid": 4000,
+    "name": "Garry's Mod",
+    "releaseDate": "29 Nov, 2006",
+    "price": "₹ 450",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "numPrice": 450,
+    "image": "https://cdn2.steamgriddb.com/grid/a2a9894ca446f0fe0aac693516c52c4d.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?t=1776868682",
+    "icon": "https://cdn2.steamgriddb.com/icon/5f2397a240ce3565d4d3b82b0db2fc65.png"
+  },
+  {
+    "appid": 945360,
+    "name": "Among Us",
+    "releaseDate": "16 Nov, 2018",
+    "price": "₹ 219",
+    "genres": [
+      "Casual"
+    ],
+    "numPrice": 219,
+    "image": "https://cdn2.steamgriddb.com/grid/09246ffb824ca2c5bc47a64cb302d3cb.jpg",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg?t=1757444903",
+    "icon": "https://cdn2.steamgriddb.com/icon/09a69de15cf89bc7fe8c0642f906a4dd.ico"
+  },
+  {
+    "appid": 548430,
+    "name": "Deep Rock Galactic",
+    "releaseDate": "13 May, 2020",
+    "price": "₹ 699",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 699,
+    "image": "https://cdn2.steamgriddb.com/grid/9c8d8b6698dd0dc195d35179f7e27543.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/header.jpg?t=1775555380",
+    "icon": "https://cdn2.steamgriddb.com/icon/08178acdaf59fb8ef375c94d8977cc93.ico"
+  },
+  {
+    "appid": 594650,
+    "name": "Hunt Showdown: 1896",
+    "releaseDate": "27 Aug, 2019",
+    "price": "₹ 1,499",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 1499,
+    "image": "https://cdn2.steamgriddb.com/grid/fbc9b51da15391491dfead2ce7830a00.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/header.jpg?t=1779201260",
+    "icon": "https://cdn2.steamgriddb.com/icon/ad4de8be467a7f946ea1e0d0ac17cf3a.png"
+  },
+  {
+    "appid": 1818750,
+    "name": "Multiversus",
+    "releaseDate": "28 May, 2024",
+    "price": "Free to Play",
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "numPrice": 0,
+    "image": "https://cdn2.steamgriddb.com/grid/2d00409802914e10d131d98bc62f2e11.jpg",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818750/header.jpg?t=1748620122",
+    "icon": "https://cdn2.steamgriddb.com/icon/d34e8683df527e3555153d979bcda9cf.png"
+  },
+  {
+    "appid": 1677740,
+    "name": "Stumble Guys",
+    "releaseDate": "7 Oct, 2022",
+    "price": "Free to Play",
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Massively Multiplayer",
+      "Racing",
+      "Free To Play"
+    ],
+    "numPrice": 0,
+    "image": "https://cdn2.steamgriddb.com/grid/4f890ad48b8ebb672cc6a8fed7f1efc9.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677740/header.jpg?t=1755116858",
+    "icon": "https://cdn2.steamgriddb.com/icon/512dea4132628ddddccdd5b133c3c502.png"
+  },
+  {
+    "appid": 218620,
+    "name": "Payday 2",
+    "releaseDate": "13 Aug, 2013",
+    "price": "₹ 349",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "numPrice": 349,
+    "image": "https://cdn2.steamgriddb.com/grid/b6ffd72032f8c85e70fce6c2833f93d0.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/header.jpg?t=1778847454",
+    "icon": "https://cdn2.steamgriddb.com/icon/fa6d3cc166fbfbf005c9e77d96cba283.ico"
+  },
+  {
+    "appid": 1272080,
+    "name": "Payday 3",
+    "releaseDate": "21 Sep, 2023",
+    "price": "₹ 2,299",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "numPrice": 2299,
+    "image": "https://cdn2.steamgriddb.com/grid/05a9e2a567eeadfdb1d910a80c8913c8.jpg",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/9803a3e93e977ce2453a0b1b0310faa78a92c82c/header_alt_assets_10.jpg?t=1779192452",
+    "icon": "https://cdn2.steamgriddb.com/icon/1fc374e204599915e0aade2d69f04b67.ico"
+  },
+  {
+    "appid": 2767030,
+    "name": "Marvel Rivals",
+    "releaseDate": "5 Dec, 2024",
+    "price": "Free to Play",
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "numPrice": 0,
+    "image": "https://cdn2.steamgriddb.com/grid/72a46ee6c3f5308603f41deb7ba5e35c.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/dabf1f6f9513340c90c154b3cf02c9661aeaeecb/header_alt_assets_7.jpg?t=1778835753",
+    "icon": "https://cdn2.steamgriddb.com/icon/916030603cc86a9b3d29f4d64f1bc415.ico"
+  },
+  {
+    "appid": 252490,
+    "name": "Rust",
+    "releaseDate": "8 Feb, 2018",
+    "price": "₹ 1,799",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "numPrice": 1799,
+    "image": "https://cdn2.steamgriddb.com/grid/35f6e50ae1b299f6efdf99b6490b712c.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1778597738",
+    "icon": "https://cdn2.steamgriddb.com/icon/c291b01517f3e6797c774c306591cc32.png"
+  },
+  {
+    "appid": 892970,
+    "name": "Valheim",
+    "releaseDate": "2 Feb, 2021",
+    "price": "₹ 529",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Early Access"
+    ],
+    "numPrice": 529,
+    "image": "https://cdn2.steamgriddb.com/grid/16eddb72aa2b83a52333d1c5e69e407a.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/de0bdcf6c008c508a79d8e75eb91fc67f4bebd5d/header.jpg?t=1765967243",
+    "icon": "https://cdn2.steamgriddb.com/icon/a0b83c02d720415dada82e08bc09e9f3.ico"
+  },
+  {
+    "appid": 346110,
+    "name": "Ark: Survival Evolved",
+    "releaseDate": "29 Aug, 2017",
+    "price": "₹ 949",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "numPrice": 949,
+    "image": "https://cdn2.steamgriddb.com/grid/2fb88ee97a699cbd93cb7f3859951f69.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/header.jpg?t=1765677889",
+    "icon": "https://cdn2.steamgriddb.com/icon/3ec0e2c7f4536e7ce9e9ce183b1de9e8.ico"
+  },
+  {
+    "appid": 239030,
+    "name": "Ark: Survival Ascended",
+    "releaseDate": "25 Oct, 2023",
+    "price": "₹ 3,850",
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "numPrice": 3850,
+    "image": "https://cdn2.steamgriddb.com/grid/68e67b29a124ed34cb6cbf12a5761626.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/header.jpg?t=1678266428",
+    "icon": "https://cdn2.steamgriddb.com/icon/3b92d18aa7a6176dd37d372bc2f1eb71.ico"
+  },
+  {
+    "appid": 1623730,
+    "name": "Palworld",
+    "releaseDate": "19 Jan, 2024",
+    "price": "₹ 1,300",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Early Access"
+    ],
+    "numPrice": 1300,
+    "image": "https://cdn2.steamgriddb.com/grid/953f325650b8582b822658a5abdee38d.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/058bd87dc17a7179e07c446aa64d0574ca43ab9d/header.jpg?t=1773936597",
+    "icon": "https://cdn2.steamgriddb.com/icon/82cf0712367108660c5339a4897a728e.ico"
+  },
+  {
+    "appid": 275850,
+    "name": "No Man's Sky",
+    "releaseDate": "12 Aug, 2016",
+    "price": "₹ 2,400",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 2400,
+    "image": "https://cdn2.steamgriddb.com/grid/c8d77146931324f4001237a93fe4ba8c.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/0daeafb115c92d9afd4c7a670384688adbde91e0/header_alt_assets_25.jpg?t=1776675618",
+    "icon": "https://cdn2.steamgriddb.com/icon/460295ce15c9440d9be6fb474387a285.ico"
+  },
+  {
+    "appid": 264710,
+    "name": "Subnautica",
+    "releaseDate": "23 Jan, 2018",
+    "price": "₹ 1,199",
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "numPrice": 1199,
+    "image": "https://cdn2.steamgriddb.com/grid/50896c8a37922749110dae272e7a345b.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/header.jpg?t=1777456112",
+    "icon": "https://cdn2.steamgriddb.com/icon/03ff5913b0517be4231fee8f421f2699.ico"
+  },
+  {
+    "appid": 1962700,
+    "name": "Subnautica 2",
+    "releaseDate": "14 May, 2026",
+    "price": "₹ 1,300",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Early Access"
+    ],
+    "numPrice": 1300,
+    "image": "https://cdn2.steamgriddb.com/grid/1bad3f6cac86d3c7358b9561c80f0755.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/header.jpg?t=1778777511",
+    "icon": "https://cdn2.steamgriddb.com/icon/71624c4e08afff4f62ba025392e93582.ico"
+  },
+  {
+    "appid": 440900,
+    "name": "Conan Exiles",
+    "releaseDate": "8 May, 2018",
+    "price": "₹ 1,399",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "numPrice": 1399,
+    "image": "https://cdn2.steamgriddb.com/grid/479f751686a3b7f1783994dd56619558.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440900/b49106f92fc749db3710622258d00eb9576ecaff/header_alt_assets_7.jpg?t=1778144715",
+    "icon": "https://cdn2.steamgriddb.com/icon/4d95d05a4fc4eadbc3b9dde67afdca39.ico"
+  },
+  {
+    "appid": 427520,
+    "name": "Factorio",
+    "releaseDate": "14 Aug, 2020",
+    "price": "₹ 1,200",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "numPrice": 1200,
+    "image": "https://cdn2.steamgriddb.com/grid/30bd9960294e0ed86593ba7044991435.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/header.jpg?t=1763986204",
+    "icon": "https://cdn2.steamgriddb.com/icon/6ca4e9af5ea662a095c3243dc591bf54.ico"
+  },
+  {
+    "appid": 526870,
+    "name": "Satisfactory",
+    "releaseDate": "8 Jun, 2020",
+    "price": "₹ 1,300",
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "numPrice": 1300,
+    "image": "https://cdn2.steamgriddb.com/grid/960022abd82d76dab840c7943826fd3a.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg?t=1749717464",
+    "icon": "https://cdn2.steamgriddb.com/icon/6a6e71cab0825a7575ebf6c3112dbfac.ico"
+  },
+  {
+    "appid": 594570,
+    "name": "Total War: Warhammer II",
+    "releaseDate": "28 Sep, 2017",
+    "price": "₹ 2,699",
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "numPrice": 2699,
+    "image": "https://cdn2.steamgriddb.com/grid/a475ebceac9e384657c6f1148c8f91ef.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594570/header.jpg?t=1778850687",
+    "icon": "https://cdn2.steamgriddb.com/icon/f8f122d50eba11c3af5607575b277bc6.png"
+  },
+  {
+    "appid": 1142710,
+    "name": "Total War: Warhammer III",
+    "releaseDate": "17 Feb, 2022",
+    "price": "₹ 3,399",
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "numPrice": 3399,
+    "image": "https://cdn2.steamgriddb.com/grid/9c1c0c97e0eda929776a33cb6a99151f.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg?t=1779273308",
+    "icon": "https://cdn2.steamgriddb.com/icon/71b10b95017ebdaa1984b0ded4c2a173.png"
+  },
+  {
+    "appid": 2344520,
+    "name": "Diablo IV",
+    "releaseDate": "17 Oct, 2023",
+    "price": "₹ 5,599",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "numPrice": 5599,
+    "image": "https://cdn2.steamgriddb.com/grid/71c46aef15c9997a5bd7e70b65a720dd.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/2953f199b4c075b22c0cf8ff03d88b0b1c267823/header_alt_assets_11.jpg?t=1777501665",
+    "icon": "https://cdn2.steamgriddb.com/icon/4d1180e592869543e75486faa4eb9d23.png"
+  },
+  {
+    "appid": 489830,
+    "name": "The Elder Scrolls V: Skyrim",
+    "releaseDate": "27 Oct, 2016",
+    "price": "₹ 1,799",
+    "genres": [
+      "RPG"
+    ],
+    "numPrice": 1799,
+    "image": "https://cdn2.steamgriddb.com/grid/3fefb4dece2d90708c94ccc3846d8d40.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1753715778",
+    "icon": "https://cdn2.steamgriddb.com/icon/b1b20d09041289e6c3fbb81850c5da54.png"
+  },
+  {
+    "appid": 377160,
+    "name": "Fallout 4",
+    "releaseDate": "9 Nov, 2015",
+    "price": "₹ 1,199",
+    "genres": [
+      "RPG"
+    ],
+    "numPrice": 1199,
+    "image": "https://cdn2.steamgriddb.com/grid/2d92b989deeb771206e2f924073f81cd.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg?t=1764687456",
+    "icon": "https://cdn2.steamgriddb.com/icon/0ec2ae1d04af7898b86235766021c19f.ico"
+  },
+  {
+    "appid": 1086940,
+    "name": "Baldur's Gate 3",
+    "releaseDate": "3 Aug, 2023",
+    "price": "₹ 2,999",
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Strategy"
+    ],
+    "numPrice": 2999,
+    "image": "https://cdn2.steamgriddb.com/grid/b122b82883a834cbcec5c2d2f5c0585c.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
+    "icon": "https://cdn2.steamgriddb.com/icon/ab968680ad9fa9909541f1225dcf0711.ico"
+  },
+  {
+    "appid": 2246340,
+    "name": "Monster Hunter Wilds",
+    "releaseDate": "26 Feb, 2025",
+    "price": "₹ 4,850",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "numPrice": 4850,
+    "image": "https://cdn2.steamgriddb.com/grid/022f1a0bb8523a8e0d9d8afa86dffc2d.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1771382452",
+    "icon": "https://cdn2.steamgriddb.com/icon/1de01c9853004077d592249ff7c4fcc3.png"
+  },
+  {
+    "appid": 289070,
+    "name": "Civilization VI",
+    "releaseDate": "20 Oct, 2016",
+    "price": "₹ 2,499",
+    "genres": [
+      "Strategy"
+    ],
+    "numPrice": 2499,
+    "image": "https://cdn2.steamgriddb.com/grid/7ce9d67d85410c4531d26ee12e9640d2.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/header.jpg?t=1740607040",
+    "icon": "https://cdn2.steamgriddb.com/icon/5bd8235489e0b7f88529874df364cd12.ico"
+  },
+  {
+    "appid": 813780,
+    "name": "Age of Empires II: Definitive Edition",
+    "releaseDate": "14 Nov, 2019",
+    "price": "₹ 529",
+    "genres": [
+      "Strategy"
+    ],
+    "numPrice": 529,
+    "image": "https://cdn2.steamgriddb.com/grid/6f5c304b81cf69a74a91dd096bbe4dc0.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/header.jpg?t=1777577197",
+    "icon": "https://cdn2.steamgriddb.com/icon/5572d737b2c88119e2940f67ef04a389.ico"
+  },
+  {
+    "appid": 1466860,
+    "name": "Age of Empires IV",
+    "releaseDate": "28 Oct, 2021",
+    "price": "₹ 2,499",
+    "genres": [
+      "Strategy"
+    ],
+    "numPrice": 2499,
+    "image": "https://cdn2.steamgriddb.com/grid/b18e895d6a4926b0587f91ed85579d88.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/header.jpg?t=1778176408",
+    "icon": "https://cdn2.steamgriddb.com/icon/6dcc8d363118d28496eee7b61822a13c.ico"
+  },
+  {
+    "appid": 1158310,
+    "name": "Crusader Kings III",
+    "releaseDate": "1 Sep, 2020",
+    "price": "₹ 2,699",
+    "genres": [
+      "GDR",
+      "Simulazione",
+      "Strategia"
+    ],
+    "numPrice": 2699,
+    "image": "https://cdn2.steamgriddb.com/grid/44f7c4c0aa53f6dcd25571253c153746.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/8a7e814d13f8e73c0d40471f585ece908f9be282/header.jpg?t=1777568423",
+    "icon": "https://cdn2.steamgriddb.com/icon/4df9692aa8fe8e888190d48961f7d543.png"
+  },
+  {
+    "appid": 236850,
+    "name": "Europa Universalis IV",
+    "releaseDate": "13 Aug, 2013",
+    "price": "₹ 2,149",
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "numPrice": 2149,
+    "image": "https://cdn2.steamgriddb.com/grid/dd0762a3964edc4fe0057af0000a1287.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/header.jpg?t=1778249292",
+    "icon": "https://cdn2.steamgriddb.com/icon/3f402b66cf03140a43be0724821a5270.ico"
+  },
+  {
+    "appid": 394360,
+    "name": "Hearts of Iron IV",
+    "releaseDate": "6 Jun, 2016",
+    "price": "₹ 2,149",
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "numPrice": 2149,
+    "image": "https://cdn2.steamgriddb.com/grid/b30b7cec4c8f4da9191a792db5e3ac10.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/67bbd0057627fc2244793bcdd09260c2539499cf/header.jpg?t=1778590996",
+    "icon": "https://cdn2.steamgriddb.com/icon/e2d988c728d061b916697ba7f095f98c.png"
+  },
+  {
+    "appid": 281990,
+    "name": "Stellaris",
+    "releaseDate": "9 May, 2016",
+    "price": "₹ 2,149",
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "numPrice": 2149,
+    "image": "https://cdn2.steamgriddb.com/grid/b2d07452cf118e98723c0dae380ea76b.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/3e1fd59709cf82b6ad682760bcd2622068d05bd8/header_alt_assets_11.jpg?t=1779090735",
+    "icon": "https://cdn2.steamgriddb.com/icon/c5c1cb0bebd56ae38817b251ad72bedb.ico"
+  },
+  {
+    "appid": 255710,
+    "name": "Cities: Skylines",
+    "releaseDate": "10 Mar, 2015",
+    "price": "₹ 1,300",
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "numPrice": 1300,
+    "image": "https://cdn2.steamgriddb.com/grid/913f5bf763c8f0e93c9f8dd63ff3782c.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/header.jpg?t=1777568415",
+    "icon": "https://cdn2.steamgriddb.com/icon/37f8dd386b49726623f6f53de0d48e65.ico"
+  },
+  {
+    "appid": 949230,
+    "name": "Cities: Skylines II",
+    "releaseDate": "24 Oct, 2023",
+    "price": "₹ 2,799",
+    "genres": [
+      "Simulation"
+    ],
+    "numPrice": 2799,
+    "image": "https://cdn2.steamgriddb.com/grid/b550b09e83026f8a11a0354dfc503974.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949230/header.jpg?t=1778587768",
+    "icon": "https://cdn2.steamgriddb.com/icon/d675e9ca025b0812982753c472c320e5.ico"
+  },
+  {
+    "appid": 227300,
+    "name": "Euro Truck Simulator 2",
+    "releaseDate": "18 Oct, 2012",
+    "price": "₹ 999",
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "numPrice": 999,
+    "image": "https://cdn2.steamgriddb.com/grid/4ba6c472f1057449e226bfc754ff0ddf.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1773641450",
+    "icon": "https://cdn2.steamgriddb.com/icon/86ebc43444cdf451b149e5de84ff3ef5.ico"
+  },
+  {
+    "appid": 784150,
+    "name": "Workers & Resources: Soviet Republic",
+    "releaseDate": "20 Jun, 2024",
+    "price": "₹ 1,600",
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "numPrice": 1600,
+    "image": "https://cdn2.steamgriddb.com/grid/d2c15fea75c4d5688c96bfc178b826ca.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/784150/header.jpg?t=1778778454",
+    "icon": "https://cdn2.steamgriddb.com/icon/b527928c61af3414882dcd84c1b90ba0.png"
+  },
+  {
+    "appid": 1250410,
+    "name": "Microsoft Flight Simulator",
+    "releaseDate": "17 Aug, 2020",
+    "price": "₹ 4,999",
+    "genres": [
+      "Simulation"
+    ],
+    "numPrice": 4999,
+    "image": "https://cdn2.steamgriddb.com/grid/7b0ff7682796d0b90b1dd565c942dda1.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250410/header.jpg?t=1777409972",
+    "icon": "https://cdn2.steamgriddb.com/icon/0ec0eb979ae9f0e78aa950e332635d90.ico"
+  },
+  {
+    "appid": 1248130,
+    "name": "Farming Simulator 22",
+    "releaseDate": "21 Nov, 2021",
+    "price": "₹ 2,499",
+    "genres": [
+      "Simulation"
+    ],
+    "numPrice": 2499,
+    "image": "https://cdn2.steamgriddb.com/grid/9a9f7f5adc81ba0c3bc0470fd70f5182.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/7ff56320788fa4b1f46ac9a62ff955d3ef3f109c/header.jpg?t=1765792398",
+    "icon": "https://cdn2.steamgriddb.com/icon/167b280cf6fb0d808c7250e4f97a5c33.ico"
+  },
+  {
+    "appid": 1465360,
+    "name": "SnowRunner",
+    "releaseDate": "17 May, 2021",
+    "price": "₹ 1,399",
+    "genres": [
+      "Adventure",
+      "Simulation"
+    ],
+    "numPrice": 1399,
+    "image": "https://cdn2.steamgriddb.com/grid/1b501d9804715c06f5d17abc0a8639ad.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/header.jpg?t=1773915366",
+    "icon": "https://cdn2.steamgriddb.com/icon/f670359f1d44336d4b83cdf7b8635f3b.png"
+  },
+  {
+    "appid": 2669320,
+    "name": "EA Sports FC 25",
+    "releaseDate": "27 Sep, 2024",
+    "price": "₹ 4,799",
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "numPrice": 4799,
+    "image": "https://cdn2.steamgriddb.com/grid/3a40e945e1f4b9b9b7a99b8d18c2c8c1.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669320/ec3fb7747fd8080ef53d7686e0d98c5abe1f51f1/header.jpg?t=1777395910",
+    "icon": "https://cdn2.steamgriddb.com/icon/54a3e39bbf1f4588a815a8b59879179f.ico"
+  },
+  {
+    "appid": 2338770,
+    "name": "NBA 2K24",
+    "releaseDate": "7 Sep, 2023",
+    "price": "₹ 3,299",
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "numPrice": 3299,
+    "image": "https://cdn2.steamgriddb.com/grid/ab3291b2f80c4441d99082b45a387757.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2338770/header.jpg?t=1761842158",
+    "icon": "https://cdn2.steamgriddb.com/icon/c2f3d9a01928774830f88c54e01fd66f.png"
+  },
+  {
+    "appid": 2231380,
+    "name": "Ghost Recon Breakpoint",
+    "releaseDate": "23 Jan, 2023",
+    "price": "₹ 2,999",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 2999,
+    "image": "https://cdn2.steamgriddb.com/grid/3b00499212636716e8aae2292974f7b1.jpg",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231380/header.jpg?t=1764778328",
+    "icon": "https://cdn2.steamgriddb.com/icon/cdb564642f8c214d3b865b65f71937a6.ico"
+  },
+  {
+    "appid": 990080,
+    "name": "Hogwarts Legacy",
+    "releaseDate": "10 Feb, 2023",
+    "price": "₹ 3,999",
+    "genres": [
+      "Action",
+      "RPG",
+      "Adventure"
+    ],
+    "numPrice": 3999,
+    "image": "https://cdn2.steamgriddb.com/grid/1f779303bd3396dfc99525e60f4d6949.jpg",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/a3cdc6f40d97df8ac993679c2dd1edeb5222421e/header.jpg?t=1778797474",
+    "icon": "https://cdn2.steamgriddb.com/icon/dfc0ddf31f87eeef737ffb16705467b5.ico"
+  },
+  {
+    "appid": 1716740,
+    "name": "Starfield",
+    "releaseDate": "5 Sep, 2023",
+    "price": "₹ 4,999",
+    "genres": [
+      "RPG"
+    ],
+    "numPrice": 4999,
+    "image": "https://cdn2.steamgriddb.com/grid/8d6cfdd1677222306165a15667f29fa6.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/header.jpg?t=1778168061",
+    "icon": "https://cdn2.steamgriddb.com/icon/4537a9e98e90f416dadaedd65c416843.png"
+  },
+  {
+    "appid": 632470,
+    "name": "Disco Elysium",
+    "releaseDate": "15 Oct, 2019",
+    "price": "₹ 1,599",
+    "genres": [
+      "RPG"
+    ],
+    "numPrice": 1599,
+    "image": "https://cdn2.steamgriddb.com/grid/e17233dc1c4e3457d5a259c06c7eb502.jpg",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632470/header.jpg?t=1778854831",
+    "icon": "https://cdn2.steamgriddb.com/icon/22f3ffca23f77c2b56ebb4ff4aaef1bc.ico"
+  },
+  {
+    "appid": 1145360,
+    "name": "Hades",
+    "releaseDate": "17 Sep, 2020",
+    "price": "₹ 1,100",
+    "genres": [
+      "Action",
+      "RPG",
+      "Indie"
+    ],
+    "numPrice": 1100,
+    "image": "https://cdn2.steamgriddb.com/grid/ce8a253393a1bbbb3d72cd2093b81ede.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg?t=1758127023",
+    "icon": "https://cdn2.steamgriddb.com/icon/851300ee84c2b80ed40f51ed26d866fc.ico"
+  },
+  {
+    "appid": 588650,
+    "name": "Dead Cells",
+    "releaseDate": "8 Aug, 2018",
+    "price": "₹ 659",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "numPrice": 659,
+    "image": "https://cdn2.steamgriddb.com/grid/f6fa975361cfccc02b55c49305ff2bed.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/header.jpg?t=1779086887",
+    "icon": "https://cdn2.steamgriddb.com/icon/165d3981d84bfa463ab80c11685b63c5.ico"
+  },
+  {
+    "appid": 413150,
+    "name": "Stardew Valley",
+    "releaseDate": "26 Feb, 2016",
+    "price": "₹ 479",
+    "genres": [
+      "RPG",
+      "Indie",
+      "Simulation"
+    ],
+    "numPrice": 479,
+    "image": "https://cdn2.steamgriddb.com/grid/cf30b40a1573a32248fcd0ba94e67652.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1754692865",
+    "icon": "https://cdn2.steamgriddb.com/icon/1716ad6e89423aa059bbdd5ea453eda4.ico"
+  },
+  {
+    "appid": 105600,
+    "name": "Terraria",
+    "releaseDate": "16 May, 2011",
+    "price": "₹ 480",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "numPrice": 480,
+    "image": "https://cdn2.steamgriddb.com/grid/9ef7f9b81c2532880cfe5cf53f0c906d.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
+    "icon": "https://cdn2.steamgriddb.com/icon/c8157144d45faf12c01a459170b2333a.ico"
+  },
+  {
+    "appid": 504230,
+    "name": "Celeste",
+    "releaseDate": "24 Jan, 2018",
+    "price": "₹ 710",
+    "genres": [
+      "Action",
+      "Indie",
+      "Adventure"
+    ],
+    "numPrice": 710,
+    "image": "https://cdn2.steamgriddb.com/grid/074aed57c243ae7020971ca7c9fe0f29.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504230/header.jpg?t=1714089525",
+    "icon": "https://cdn2.steamgriddb.com/icon/f7e6c85504ce6e82442c770f7c8606f0.ico"
+  },
+  {
+    "appid": 774361,
+    "name": "Blasphemous",
+    "releaseDate": "10 Sep, 2019",
+    "price": "₹ 1,700",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "numPrice": 1700,
+    "image": "https://cdn2.steamgriddb.com/grid/efb0f96fc2ee386ece83fdacdf9e9c81.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774361/header.jpg?t=1778527675",
+    "icon": "https://cdn2.steamgriddb.com/icon/74bf91a53eb1f013c870983eacf42770.ico"
+  },
+  {
+    "appid": 268910,
+    "name": "Cuphead",
+    "releaseDate": "29 Sep, 2017",
+    "price": "₹ 565",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "numPrice": 565,
+    "image": "https://cdn2.steamgriddb.com/grid/25dcf1554f13c36b512dfe907acc77d3.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268910/header.jpg?t=1709068852",
+    "icon": "https://cdn2.steamgriddb.com/icon/bc704a858bd5ae7588f5f4da6a95fb2b.ico"
+  },
+  {
+    "appid": 632360,
+    "name": "Risk of Rain 2",
+    "releaseDate": "11 Aug, 2020",
+    "price": "₹ 820",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "numPrice": 820,
+    "image": "https://cdn2.steamgriddb.com/grid/8992a6b9a77eb452fb54520b47a3d02e.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/header.jpg?t=1775753930",
+    "icon": "https://cdn2.steamgriddb.com/icon/a16db462526a3ef934fef9a2d6d25899.png"
+  },
+  {
+    "appid": 319630,
+    "name": "Life is Strange",
+    "releaseDate": "29 Jan, 2015",
+    "price": "₹ 99",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 99,
+    "image": "https://cdn2.steamgriddb.com/grid/74690a41533f4e3d0b390fcfdc082781.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319630/header.jpg?t=1772725755",
+    "icon": "https://cdn2.steamgriddb.com/icon/abd24feced3d26fef6b83b01a0e5af3f.ico"
+  },
+  {
+    "appid": 578650,
+    "name": "The Outer Worlds",
+    "releaseDate": "23 Oct, 2020",
+    "price": "₹ 2,349",
+    "genres": [
+      "RPG"
+    ],
+    "numPrice": 2349,
+    "image": "https://cdn2.steamgriddb.com/grid/73aeafa9e9af56df516519029bb904af.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578650/header.jpg?t=1776350110",
+    "icon": "https://cdn2.steamgriddb.com/icon/970b609f5323a8d2c83a555d39242bb9.png"
+  },
+  {
+    "appid": 400,
+    "name": "Portal",
+    "releaseDate": "10 Oct, 2007",
+    "price": "₹ 480",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 480,
+    "image": "https://cdn2.steamgriddb.com/grid/60d58eafbef6da2e2bd56b40cd8835ed.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/header.jpg?t=1745368554",
+    "icon": "https://cdn2.steamgriddb.com/icon/045117b0e0a11a242b9765e79cbf113f.png"
+  },
+  {
+    "appid": 620,
+    "name": "Portal 2",
+    "releaseDate": "18 Apr, 2011",
+    "price": "₹ 480",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 480,
+    "image": "https://cdn2.steamgriddb.com/grid/9ebc0e97da8e0e5083fea7203f194d2b.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg?t=1745363004",
+    "icon": "https://cdn2.steamgriddb.com/icon/8d37be25170778cefa6d23801922dc97.ico"
+  },
+  {
+    "appid": 220,
+    "name": "Half-Life 2",
+    "releaseDate": "16 Nov, 2004",
+    "price": "₹ 480",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 480,
+    "image": "https://cdn2.steamgriddb.com/grid/1d386e4b61ac43b166394517562a0b17.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/header.jpg?t=1745368545",
+    "icon": "https://cdn2.steamgriddb.com/icon/84b20b1f5a0d103f5710bb67a043cd78.ico"
+  },
+  {
+    "appid": 322330,
+    "name": "Don't Starve Together",
+    "releaseDate": "21 Apr, 2016",
+    "price": "₹ 479",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "numPrice": 479,
+    "image": "https://cdn2.steamgriddb.com/grid/357b62cd0528880c7f02f3e4174013c7.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/14496a5926156fbaf8b026f8224ba8c34e9b5096/header_alt_assets_49.jpg?t=1777913126",
+    "icon": "https://cdn2.steamgriddb.com/icon/f2e97d0ce7967d4da366704b14b3922b.ico"
+  },
+  {
+    "appid": 1888160,
+    "name": "Armored Core VI: Fires of Rubicon",
+    "releaseDate": "24 Aug, 2023",
+    "price": "₹ 3,599",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 3599,
+    "image": "https://cdn2.steamgriddb.com/grid/947311776d58362bacda9495a9b32182.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888160/header.jpg?t=1748630736",
+    "icon": "https://cdn2.steamgriddb.com/icon/b419a41501bb26f4bc3d852c0096ba46.png"
+  },
+  {
+    "appid": 250900,
+    "name": "The Binding of Isaac: Rebirth",
+    "releaseDate": "4 Nov, 2014",
+    "price": "₹ 459",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 459,
+    "image": "https://cdn2.steamgriddb.com/grid/6dc83d2991a673298f4804a5ba075e16.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg?t=1731977365",
+    "icon": "https://cdn2.steamgriddb.com/icon/bc573864331a9e42e4511de6f678aa83.ico"
+  },
+  {
+    "appid": 620980,
+    "name": "Beat Saber",
+    "releaseDate": "21 May, 2019",
+    "price": "₹ 1,299",
+    "genres": [
+      "Indie"
+    ],
+    "numPrice": 1299,
+    "image": "https://cdn2.steamgriddb.com/grid/d7493205803bcec612bfa81cba8a833e.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620980/3067664ee110fed550f5c3a1b74340cabd7d53f0/header.jpg?t=1778574113",
+    "icon": "https://cdn2.steamgriddb.com/icon/0e9b059239cd504908dc3a4770f99d4e.png"
+  },
+  {
+    "appid": 883710,
+    "name": "Resident Evil 2 (Remake)",
+    "releaseDate": "24 Jan, 2019",
+    "price": "₹ 1,999",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 1999,
+    "image": "https://cdn2.steamgriddb.com/grid/fb5b3b5d234aa718062e3b4f6c826e23.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883710/header.jpg?t=1768954831",
+    "icon": "https://cdn2.steamgriddb.com/icon/5d44a2b0d85aa1a4dd3f218be6422c66.png"
+  },
+  {
+    "appid": 2050650,
+    "name": "Resident Evil 4 (Remake)",
+    "releaseDate": "23 Mar, 2023",
+    "price": "₹ 2,399",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 2399,
+    "image": "https://cdn2.steamgriddb.com/grid/fa8469112345cdf93cd402092eb73d5d.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
+    "icon": "https://cdn2.steamgriddb.com/icon/3d888043a179cc3414d569db712d8846.png"
+  },
+  {
+    "appid": 1196590,
+    "name": "Resident Evil Village",
+    "releaseDate": "6 May, 2021",
+    "price": "₹ 2,399",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 2399,
+    "image": "https://cdn2.steamgriddb.com/grid/da61fe8e5e93df7e3d379918988303e1.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196590/header.jpg?t=1776927117",
+    "icon": "https://cdn2.steamgriddb.com/icon/19742ececd19c412f44339879bab3675.png"
+  },
+  {
+    "appid": 3764200,
+    "name": "Resident Evil Requiem",
+    "releaseDate": "27 Feb, 2026",
+    "price": "₹ 4,399",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 4399,
+    "image": "https://cdn2.steamgriddb.com/grid/2d5094ace83e5a770819135e5b844c59.jpg",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1772587704",
+    "icon": "https://cdn2.steamgriddb.com/icon/6c4a3ef53278a9c935e05b32956c09b5.png"
+  },
+  {
+    "appid": 1693980,
+    "name": "Dead Space (Remake)",
+    "releaseDate": "27 Jan, 2023",
+    "price": "₹ 2,999",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 2999,
+    "image": "https://cdn2.steamgriddb.com/grid/ba49e8c45fef7070f22c11c10a45fa23.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/header.jpg?t=1777396576",
+    "icon": "https://cdn2.steamgriddb.com/icon/cdc65480cfdc7050e405953f036e4a15.png"
+  },
+  {
+    "appid": 238320,
+    "name": "Outlast",
+    "releaseDate": "4 Sep, 2013",
+    "price": "₹ 849",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "numPrice": 849,
+    "image": "https://cdn2.steamgriddb.com/grid/25644b95de790aea9e0cb3d19b17a945.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/header.jpg?t=1666817106",
+    "icon": "https://cdn2.steamgriddb.com/icon/8621cdddd12002436862912970737eda.ico"
+  },
+  {
+    "appid": 1332010,
+    "name": "Stray",
+    "releaseDate": "18 Sep, 2020",
+    "price": "₹ 1,100",
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "numPrice": 1100,
+    "image": "https://cdn2.steamgriddb.com/grid/5792570eae5e9fd09de1927180ff513c.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332010/header.jpg?t=1733260906",
+    "icon": "https://cdn2.steamgriddb.com/icon/ab74cae52afa59f5ab50f79a6599f236.png"
+  },
+  {
+    "appid": 319510,
+    "name": "Five Nights at Freddy's",
+    "releaseDate": "18 Aug, 2014",
+    "price": "₹ 219",
+    "genres": [
+      "Indie",
+      "Simulation"
+    ],
+    "numPrice": 219,
+    "image": "https://cdn2.steamgriddb.com/grid/c7e30c4f80e9452d40245385c6572936.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319510/header.jpg?t=1666889251",
+    "icon": "https://cdn2.steamgriddb.com/icon/25e828afe5f637410a84442d27029c38.ico"
+  },
+  {
+    "appid": 214490,
+    "name": "Alien: Isolation",
+    "releaseDate": "6 Oct, 2014",
+    "price": "₹ 2,400",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 2400,
+    "image": "https://cdn2.steamgriddb.com/grid/79c13d436a27633a80830cd3ab624b32.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214490/header.jpg?t=1763647113",
+    "icon": "https://cdn2.steamgriddb.com/icon/50abc3e730e36b387ca8e02c26dc0a22.ico"
+  },
+  {
+    "appid": 391720,
+    "name": "Layers of Fear",
+    "releaseDate": "13 Jun, 2023",
+    "price": "₹ 1,300",
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "numPrice": 1300,
+    "image": "https://cdn2.steamgriddb.com/grid/ce49b7c62930aa818781c9ff64e5d84b.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391720/3897528239ffea908b58ba1e6cf704dfac661a30/header.jpg?t=1771008004",
+    "icon": "https://cdn2.steamgriddb.com/icon/c145e9e6fe8eb591cfdbe9fb6b7eda82.ico"
+  },
+  {
+    "appid": 239140,
+    "name": "Dying Light",
+    "releaseDate": "26 Jan, 2015",
+    "price": "₹ 799",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "numPrice": 799,
+    "image": "https://cdn2.steamgriddb.com/grid/795ced384fdcad15310b46841a6f145c.jpg",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/9d1b810b85ae46a0acbdfddf583ccbb81271183e/header.jpg?t=1779191279",
+    "icon": "https://cdn2.steamgriddb.com/icon/20fd2eb9851c15c868bed479fe6bdb39.ico"
+  },
+  {
+    "appid": 534380,
+    "name": "Dying Light 2 Stay Human",
+    "releaseDate": "3 Feb, 2022",
+    "price": "₹ 2,499",
+    "genres": [
+      "Action",
+      "RPG",
+      "Adventure"
+    ],
+    "numPrice": 2499,
+    "image": "https://cdn2.steamgriddb.com/grid/a75fcb7222ddccf84b49f3b3efec8d48.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534380/header.jpg?t=1772550031",
+    "icon": "https://cdn2.steamgriddb.com/icon/d6c3146687fe686b34e8a8d761b723a6.ico"
+  },
+  {
+    "appid": 1966720,
+    "name": "Lethal Company",
+    "releaseDate": "23 Oct, 2023",
+    "price": "₹ 480",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Early Access"
+    ],
+    "numPrice": 480,
+    "image": "https://cdn2.steamgriddb.com/grid/196a5cad7254e133fbb226989034e460.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1775380053",
+    "icon": "https://cdn2.steamgriddb.com/icon/5d29c687a58bc919bd4b28609e2f7134.ico"
+  },
+  {
+    "appid": 1326470,
+    "name": "Sons of the Forest",
+    "releaseDate": "22 Feb, 2024",
+    "price": "₹ 1,300",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "numPrice": 1300,
+    "image": "https://cdn2.steamgriddb.com/grid/d21b30aa7a6743b1f729295b9ac4af1d.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
+    "icon": "https://cdn2.steamgriddb.com/icon/fb3f8ebaadfa71198b30063806617155.ico"
+  },
+  {
+    "appid": 1293830,
+    "name": "Forza Horizon 4",
+    "releaseDate": "9 Mar, 2021",
+    "price": "₹ 1,299",
+    "genres": [
+      "Racing"
+    ],
+    "numPrice": 1299,
+    "image": "https://cdn2.steamgriddb.com/grid/ab704bd383ad12c1e7f6bcaa0da165b0.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293830/header.jpg?t=1734336342",
+    "icon": "https://cdn2.steamgriddb.com/icon/9578a63fbe545bd82cc5bbe749636af1.ico"
+  },
+  {
+    "appid": 1551360,
+    "name": "Forza Horizon 5",
+    "releaseDate": "8 Nov, 2021",
+    "price": "₹ 3,499",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "numPrice": 3499,
+    "image": "https://cdn2.steamgriddb.com/grid/6abd5c03e1414f4600add2d7956bb442.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1746471508",
+    "icon": "https://cdn2.steamgriddb.com/icon/c973b9c3bf284cd40e25c45ce8eddf34.ico"
+  },
+  {
+    "appid": 244210,
+    "name": "Assetto Corsa",
+    "releaseDate": "19 Dec, 2014",
+    "price": "₹ 479",
+    "genres": [
+      "Indie",
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "numPrice": 479,
+    "image": "https://cdn2.steamgriddb.com/grid/542c851650c2c1962d8c852785477ae4.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244210/header.jpg?t=1754985171",
+    "icon": "https://cdn2.steamgriddb.com/icon/97208e4cb6de9c04b325c2185316439f.png"
+  },
+  {
+    "appid": 1222680,
+    "name": "Need for Speed Heat",
+    "releaseDate": "4 Jun, 2020",
+    "price": "₹ 3,499",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Racing",
+      "Sports"
+    ],
+    "numPrice": 3499,
+    "image": "https://cdn2.steamgriddb.com/grid/f4ed67f25c69955bae7553ad4cd2ff0d.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222680/header.jpg?t=1777414224",
+    "icon": "https://cdn2.steamgriddb.com/icon/3c306a0d8b9f75e320b7f1d60e29f444.ico"
+  },
+  {
+    "appid": 1846380,
+    "name": "Need for Speed Unbound",
+    "releaseDate": "29 Nov, 2022",
+    "price": "₹ 3,499",
+    "genres": [
+      "Action",
+      "Racing"
+    ],
+    "numPrice": 3499,
+    "image": "https://cdn2.steamgriddb.com/grid/8777af7a31c351b56fe6748d1c9cae62.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846380/eacea0635efb7af9054f6b299060fee32404ace7/header.jpg?t=1777394467",
+    "icon": "https://cdn2.steamgriddb.com/icon/3a524e0ef76f611b3edd000139b0e194.ico"
+  },
+  {
+    "appid": 1364780,
+    "name": "Street Fighter 6",
+    "releaseDate": "1 Jun, 2023",
+    "price": "₹ 3,599",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 3599,
+    "image": "https://cdn2.steamgriddb.com/grid/71283182d40a769d03f42cab99f8fc1e.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg?t=1776917924",
+    "icon": "https://cdn2.steamgriddb.com/icon/9454eae24912689c948f9bc9f33490f1.ico"
+  },
+  {
+    "appid": 1778820,
+    "name": "Tekken 8",
+    "releaseDate": "25 Jan, 2024",
+    "price": "₹ 4,199",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 4199,
+    "image": "https://cdn2.steamgriddb.com/grid/a9283100ad06971a29f5382f6ab25ea4.jpg",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778820/f69b0f7c35aa8c966d9ff74c2bae548dbea072e4/header.jpg?t=1770678135",
+    "icon": "https://cdn2.steamgriddb.com/icon/77d570f78f6c228ea56fb529a4cd703f.ico"
+  },
+  {
+    "appid": 1971870,
+    "name": "Mortal Kombat 1",
+    "releaseDate": "19 Sep, 2023",
+    "price": "₹ 4,299",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 4299,
+    "image": "https://cdn2.steamgriddb.com/grid/1ca03569d36f6dba22a6e791da327083.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1971870/header.jpg?t=1778795130",
+    "icon": "https://cdn2.steamgriddb.com/icon/ea4ae23776b72e0f3eec7de67170a53d.ico"
+  },
+  {
+    "appid": 291550,
+    "name": "Brawlhalla",
+    "releaseDate": "17 Oct, 2017",
+    "price": "Free to Play",
+    "genres": [
+      "Action",
+      "Indie",
+      "Free To Play"
+    ],
+    "numPrice": 0,
+    "image": "https://cdn2.steamgriddb.com/grid/820b5138a91b4a3ef9a7024cbbcc9af9.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/291550/f6dd1b0a6a2b6e161604b36788276b18d36909cf/header.jpg?t=1779288819",
+    "icon": "https://cdn2.steamgriddb.com/icon/50580bcb536ab683eb7edfff89acaafe.ico"
+  },
+  {
+    "appid": 205100,
+    "name": "Dishonored",
+    "releaseDate": "11 Oct, 2012",
+    "price": "₹ 679",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 679,
+    "image": "https://cdn2.steamgriddb.com/grid/48b9ef5bcb5ede1575779d29b9eeffe7.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/205100/header.jpg?t=1750785977",
+    "icon": "https://cdn2.steamgriddb.com/icon/fef873297a8a4a4bc01ca5f2df08eeba.ico"
+  },
+  {
+    "appid": 403640,
+    "name": "Dishonored 2",
+    "releaseDate": "11 Nov, 2016",
+    "price": "₹ 1,499",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 1499,
+    "image": "https://cdn2.steamgriddb.com/grid/55a3c8423eb4c12b794b1a1d92ba2294.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/403640/header.jpg?t=1750785918",
+    "icon": "https://cdn2.steamgriddb.com/icon/c5d84b491de9533ab5043b62c3d41057.ico"
+  },
+  {
+    "appid": 1222140,
+    "name": "Detroit: Become Human",
+    "releaseDate": "18 Jun, 2020",
+    "price": "₹ 2,349",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 2349,
+    "image": "https://cdn2.steamgriddb.com/grid/2078750ea356ba9fd472655dec36c068.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479",
+    "icon": "https://cdn2.steamgriddb.com/icon/d058046c0fc3f753efc3f98d71ed8475.ico"
+  },
+  {
+    "appid": 367520,
+    "name": "Hollow Knight",
+    "releaseDate": "24 Feb, 2017",
+    "price": "₹ 479",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "numPrice": 479,
+    "image": "https://cdn2.steamgriddb.com/grid/d18c832e8c956b4ef8b92862e6bf470d.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/3c3489495136b26b34f8a9543c7f5645b99d388c/header.jpg?t=1776125684",
+    "icon": "https://cdn2.steamgriddb.com/icon/0e80627b065f42ceda0f4464845f2c65.ico"
+  },
+  {
+    "appid": 1030300,
+    "name": "Hollow Knight: Silksong",
+    "releaseDate": "4 Sep, 2025",
+    "price": "₹ 880",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "numPrice": 880,
+    "image": "https://cdn2.steamgriddb.com/grid/1a8b52ae89172d796cdfb292806c3a52.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/7983574d464e6559ac7e24275727f73a8bcca1f3/header.jpg?t=1776125736",
+    "icon": "https://cdn2.steamgriddb.com/icon/f8b53791dfebe516ce96a34d1d494d18.ico"
+  },
+  {
+    "appid": 1172380,
+    "name": "Star Wars Jedi: Fallen Order",
+    "releaseDate": "14 Nov, 2019",
+    "price": "₹ 2,199",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 2199,
+    "image": "https://cdn2.steamgriddb.com/grid/669aee218851553304392c2497857c4d.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172380/header.jpg?t=1777393604",
+    "icon": "https://cdn2.steamgriddb.com/icon/2fd0fd3efa7c4cfb034317b21f3c2d93.ico"
+  },
+  {
+    "appid": 2947440,
+    "name": "Silent Hill f",
+    "releaseDate": "25 Sep, 2025",
+    "price": "₹ 3,200",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 3200,
+    "image": "https://cdn2.steamgriddb.com/grid/836fc55095976e7a7c4df140be0ee93e.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/7e5d923ac622bd1775ebc9b5d4b5b0a24bf5ed40/header.jpg?t=1770169624",
+    "icon": "https://cdn2.steamgriddb.com/icon/76814d6a11ad20c1c48be0e9dce501a7.png"
+  },
+  {
+    "appid": 2129530,
+    "name": "REANIMAL",
+    "releaseDate": "13 Feb, 2026",
+    "price": "₹ 1,999",
+    "genres": [
+      "Adventure"
+    ],
+    "numPrice": 1999,
+    "image": "https://cdn2.steamgriddb.com/grid/88f9e4d4cea5c725f2501a27c8842f71.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129530/4cdda917a0155258a2e7909d7869f35d8f980f96/header.jpg?t=1771918402",
+    "icon": "https://cdn2.steamgriddb.com/icon/02cc7ff218420173f83916df3e243a72.ico"
+  },
+  {
+    "appid": 1285190,
+    "name": "Borderlands 4",
+    "releaseDate": "11 Sep, 2025",
+    "price": "₹ 3,499",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "numPrice": 3499,
+    "image": "https://cdn2.steamgriddb.com/grid/d1e1fa0779ea7cf1f4fbe2403b99d226.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285190/986a88d1b0e1420b00183def2a7034508353afa3/header.jpg?t=1779139227",
+    "icon": "https://cdn2.steamgriddb.com/icon/4924ba9eef792985372488efd87d2fe1.ico"
+  },
+  {
+    "appid": 3321460,
+    "name": "Crimson Desert",
+    "releaseDate": "19 Mar, 2026",
+    "price": "₹ 3,499",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 3499,
+    "image": "https://cdn2.steamgriddb.com/grid/a2ea3ea9d01c17b87a65bc8e885015b5.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/abd7dbdeaede8b6c9a6d40bf116ff2b883f2dd45/header.jpg?t=1777016399",
+    "icon": "https://cdn2.steamgriddb.com/icon/0ca9a98855d7895b42e5b265bebdf8cc.ico"
+  },
+  {
+    "appid": 1172710,
+    "name": "Dune: Awakening",
+    "releaseDate": "10 Jun, 2025",
+    "price": "₹ 2,400",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "numPrice": 2400,
+    "image": "https://cdn2.steamgriddb.com/grid/d2329e67ff39828e5bfe560ac405d888.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/da994ea756677c3d1d9a77accb8596a8661f4cad/header.jpg?t=1779198223",
+    "icon": "https://cdn2.steamgriddb.com/icon/813657a006e90f543b66c0ae1258c256.ico"
+  },
+  {
+    "appid": 3357650,
+    "name": "PRAGMATA",
+    "releaseDate": "16 Apr, 2026",
+    "price": "₹ 2,999",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 2999,
+    "image": "https://cdn2.steamgriddb.com/grid/2c655140a81f8a27d57576e3bf76fb90.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/e32e168b25ed68a0cf6264c220c07e96c2abfb56/header.jpg?t=1777351016",
+    "icon": "https://cdn2.steamgriddb.com/icon/acd3cb288c12d9619e304d8e83069484.ico"
+  },
+  {
+    "appid": 1808500,
+    "name": "Arc Raiders",
+    "releaseDate": "30 Oct, 2025",
+    "price": "₹ 2,467",
+    "genres": [
+      "Action"
+    ],
+    "numPrice": 2467,
+    "image": "https://cdn2.steamgriddb.com/grid/ac80b7f0ea728befded9a1c5ba5330d2.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/04baafaf64a5aa5f46ecda5d71889a4848dc0628/header.jpg?t=1776865359",
+    "icon": "https://cdn2.steamgriddb.com/icon/cfba3595dfb94c60a9d0e4fc780df40d.ico"
+  },
+  {
+    "appid": 3768760,
+    "name": "007 First Light",
+    "releaseDate": "27 May, 2026",
+    "price": "₹ 3,499",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 3499,
+    "image": "https://cdn2.steamgriddb.com/grid/9cd0f2a7c17876d6721916f09bce496c.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/dbe86ebd2edb4c77d113e9e2feefeb90189fabc9/header_alt_assets_1.jpg?t=1779187561",
+    "icon": "https://cdn2.steamgriddb.com/icon/b3a8bcc0307b4cc7c7a0c33fa648b62a.ico"
+  },
+  {
+    "appid": 3280350,
+    "name": "Death Stranding 2: On The Beach",
+    "releaseDate": "19 Mar, 2026",
+    "price": "₹ 3,499",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "numPrice": 3499,
+    "image": "https://cdn2.steamgriddb.com/grid/67f798cfaafbe1e92daca478934c1ee4.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/6270c77b0729e2df0a17d660286eeddfd9169386/header.jpg?t=1774022345",
+    "icon": "https://cdn2.steamgriddb.com/icon/471c7d5b7f58b21265dd1d4dec3991c4.png"
+  },
+  {
+    "appid": 3681010,
+    "name": "Nioh 3",
+    "releaseDate": "6 Feb, 2026",
+    "price": "₹ 4,900",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "numPrice": 4900,
+    "image": "https://cdn2.steamgriddb.com/grid/ff780b55451f6516ccb007d9fe237e02.png",
+    "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/a21264e9fd476dcb2901c2432b598107d024c5a8/header.jpg?t=1772090941",
+    "icon": "https://cdn2.steamgriddb.com/icon/883a2921dab65f33daf63173db8a5f4c.png"
+  }
+]

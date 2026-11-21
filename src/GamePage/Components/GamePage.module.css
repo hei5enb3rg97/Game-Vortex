@@ -1,0 +1,446 @@
+
+.gamePage {
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif;
+    width: fit-content;
+    margin: auto;
+    color: white;
+}
+
+.gameContainer {
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    width: 70vw;
+    height: auto;
+    min-height: 57vh;
+    background: hsl(0, 0%, 5%);
+    color: white;
+}
+
+.topSection {
+    display: flex;
+    gap: 16px;
+    width: 70vw;
+    height: 57vh;
+    border-radius: 5px;
+    background: hsla(0, 2%, 10%);
+    color: white;
+}
+
+.mediaDisplay  {
+    width: 50vw;
+    aspect-ratio: 16/9;
+    border-top-left-radius: 5px;
+}
+
+.mediaDisplay img, .mediaDisplay video {
+    background-color: black;
+    width: 100%;
+    aspect-ratio: 16/9;
+    object-fit: contain;
+    display: block;
+    border-top-left-radius: 5px;
+}
+
+.mediaSlider {
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    width: 50vw;
+    height: 100%;
+}
+
+.thumbViewport {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    overflow: hidden;
+    height: 100%;
+}
+
+.thumbTrack {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    height: 100%;
+    transition: transform 0.3s ease;
+}
+
+.leftSlide {
+    color:hsl(18, 86%, 37%);
+    background-color: #1a1a1a;
+    padding: 3px;
+    margin-right: 2px;
+    height: 100%;
+}
+
+.rightSlide {
+    color:hsl(18, 86%, 37%);
+    background-color: #1a1a1a;
+    padding: 3px;
+    margin-left: 2px;
+    height: 100%;
+}
+
+.leftSlide:hover, .rightSlide:hover {
+    background-color: #292929;
+}
+
+.thumbWrapper {
+    margin-left: 2px;
+    margin-right: 2px;
+    position: relative;
+    height: 7.4vh;
+}
+
+.thumbWrapper img {
+    height: 100%;
+    aspect-ratio: 16/9;
+}
+
+.activeThumb {
+    outline: 2px solid white;
+}
+
+.playIcon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.infoSection img {
+    width: 100%;
+    border-top-right-radius: 5px;
+}
+
+.mediaSection {
+    display: flex;
+    flex-direction: column;
+    flex: 6.9;
+}
+
+.infoSection {
+    flex: 3.1;
+}
+
+.description {
+    margin-top: 20px;
+    font-size: 0.85rem;
+    padding-right: 10px;
+    line-height: 1.4;
+}
+
+.metaSection {
+    font-size: 0.85rem;
+    margin-top: 0px;
+    padding-right: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.metaRow {
+    display: flex;
+    gap: 8px;
+    align-items: baseline;
+}
+
+.metaLabel {
+    flex-shrink: 0;
+    min-width: 85px;
+    color: gray;
+}
+
+.metaValue {
+    line-height: 1.4;
+    overflow-wrap: break-word;
+}
+
+.genreList {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+}
+
+.genreTag {
+    font-size: 0.75rem;
+    padding: 4px 8px;
+    background: hsl(0, 0%, 16%);
+    border-radius: 4px;
+    color: rgb(190, 190, 190);
+}
+
+.purchaseSection {
+    display: flex;
+    justify-content: space-between;
+    min-width: 70vw;
+    align-self: center;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 10px 24px;
+    margin-top: 50px;
+    border-radius: 6px;
+    background: linear-gradient(
+        to right,
+        #1c1c1c,
+        #3d3e3e
+    );
+}
+
+.purchaseTitle {
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.purchaseActions {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.gamePrice {
+    background: black;
+    padding: 10px 18px;
+    border-radius: 4px;
+    font-size: 1.2rem;
+}
+
+.cartButton {
+    font-weight: bold;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    color: white;
+    background: linear-gradient(
+        to right,
+        hsl(18, 86%, 37%),
+        hsl(18, 99%, 60%)
+    )
+}
+
+.cartButton:hover {
+    background: linear-gradient(
+        to right,
+        hsl(18, 84%, 42%),
+        hsl(18, 92%, 64%)
+    )
+}
+
+.wishButton {
+    font-weight: bold;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    color: hsl(0, 0%, 100%);
+    background: linear-gradient(
+        to right,
+        hsl(0, 0%, 41%),
+        hsl(30, 1%, 56%)
+    )
+}
+
+.wishButton:hover {
+    background: linear-gradient(
+        to right,
+        hsl(0, 0%, 43%),
+        hsl(0, 0%, 64%)
+    )
+}
+
+.aboutSection {
+    margin-top: 40px;
+    width: fit-content;
+    align-self: center;
+}
+
+.aboutSection > h2{
+    font-size: 1.5rem;
+    margin-left: auto;
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+    max-width: 45vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.details h1,h2,h3 {
+    font-size: 1rem;
+}
+
+.details > h1 {
+    font-size: 1.2rem;
+    color: hsl(18, 86%, 37%);
+}
+
+.details li {
+    margin: 2px 0;
+    line-height: 1.3;
+}
+
+.details p {
+    margin-top: 10px;
+}
+
+.details ul, .details ol {
+    margin: 0px;
+    padding-left: 18px;
+}
+
+.details img, .details video {
+    width: 45vw;
+    height: auto;
+    object-fit: contain;
+}
+
+.requirementsSection {
+    width: 70vw;
+    margin: 60px auto;
+}
+
+.requirementsSection h2 {
+    font-size: 1.5rem;
+}
+
+.requirementsGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.specBox {
+    background: #151515;
+    border-radius: 6px;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+.specBox div > strong {
+    color: hsl(18, 86%, 37%);
+}
+
+
+.libraryInfoSection{
+    margin-top: 2rem;
+    margin-left: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.libraryStats{
+    display: flex;
+    gap: 20px;
+}
+
+.libraryStats p{
+    margin-top: 0px;
+    color: #cfcfcf;
+    font-size: 0.85rem;
+}
+
+.libraryStats span{
+    color: #8b8b8b;
+}
+
+.libraryActions{
+    margin-top: 5px;
+    display: flex;
+    gap: 1rem;
+}
+
+.installButton,
+.playButton,
+.uninstallButton{
+    border: none;
+    padding: 10px 15px;
+    font-size: 0.9rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.installButton{
+    background: linear-gradient(
+        to right,
+        hsl(18, 86%, 37%),
+        hsl(18, 99%, 60%)
+    );
+    color: white;
+}
+
+.installButton:hover{
+    background: linear-gradient(
+        to right,
+        hsl(18, 84%, 42%),
+        hsl(18, 92%, 64%)
+    )
+}
+
+.playButton{
+    background: linear-gradient(
+        to right,
+        hsl(18, 86%, 37%),
+        hsl(18, 99%, 60%)
+    );
+    color: white;
+}
+
+.playButton:hover{
+    background: linear-gradient(
+        to right,
+        hsl(18, 84%, 42%),
+        hsl(18, 92%, 64%)
+    )
+}
+
+.uninstallButton{
+    background: linear-gradient(
+        to right,
+        hsl(0, 1%, 33%),
+        hsl(0, 0%, 65%)
+    );
+    color: white;
+}
+
+.uninstallButton:hover{
+    background: linear-gradient(
+        to right,
+        hsl(0, 1%, 39%),
+        hsl(0, 1%, 68%)
+    )
+}
+
+.expandButton {
+    align-self: flex-start;
+    margin-top: 40px;
+    border: none;
+    background-color: hsl(0,0%,5%);
+    color: hsl(18, 86%, 37%);
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.expandButton:hover {
+    text-decoration: underline;
+    text-decoration-color: hsl(18, 86%, 37%);
+}
+
+.showdown, .showup {
+    justify-self: center;
+    margin-left: 5px;
+    font-size: 0.6rem;
+    font-weight: bold;
+    color:hsl(18, 86%, 37%);
+}

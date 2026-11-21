@@ -1,0 +1,114 @@
+.sidebar{
+    font-family: sans-serif;
+    width: 320px;
+    height: calc(100vh - 100px);
+    position: fixed;
+    top: 80px;
+    align-self: flex-start;
+    background: #0f0f0f;
+    border-right: 1px solid #222;
+    padding: 18px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.dropdown,
+.searchInput{
+    width: 100%;
+    background: #171717;
+    color: white;
+    border: 1px solid #252525;
+    outline: none;
+    border-radius: 8px;
+    padding: 12px;
+    font-size: 0.95rem;
+}
+
+.dropdown{
+    margin-bottom: 12px;
+}
+
+.searchInput{
+    width: 88%;
+    background: rgba(139, 139, 139, 0.073);
+    color: white;
+    font-size: 1rem;
+    border: 1px solid rgba(255, 107, 0, 0.25);
+    border-radius: 10px;
+    padding: 12px 18px;
+    outline: none;
+    margin-bottom: 14px;
+}
+
+.searchInput:focus {
+    border-color: #cf6317;
+}
+
+.gameList{
+    flex: 1;
+    overflow-y: auto;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding-right: 4px;
+    padding-bottom: 20px;
+}
+
+.gameList::-webkit-scrollbar{
+    width: 6px;
+}
+
+
+.gameList::-webkit-scrollbar-thumb{
+    background: #e66819ae;
+    border-radius: 20px;
+}
+
+
+.gameList::-webkit-scrollbar-track{
+    background: transparent;
+}
+
+.gameRow{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.2s;
+    color: white;
+}
+
+
+.gameRow:hover{
+    background: #1a1a1a;
+}
+
+
+.active{
+    background: rgba(230, 104, 25, 0.105);
+    border-left: 3px solid #e66919;
+}
+
+.gameIcon{
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+    flex-shrink: 0;
+}
+
+
+.gameRow span{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 0.95rem;
+}
+
+.selectedSection {
+    margin-top: 50px;
+    margin-left: 360px;
+}

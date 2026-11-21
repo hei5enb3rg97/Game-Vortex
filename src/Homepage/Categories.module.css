@@ -1,0 +1,47 @@
+
+.title {
+    margin-left: 35px;
+    font-size: 1.5rem;
+}
+
+.categoryContainer {
+    padding: 60px;
+    padding-top: 30px;
+    font-family: sans-serif;
+    color: white;
+    background-color: hsl(0, 0%, 5%);
+}
+
+.categoryContainer h1 {
+    color: #B7410E;
+    font-size: 1.2rem;
+}
+
+.categorySlider {
+    display: flex;
+    font-family: sans-serif;
+    color: white;
+    background-color: hsl(0, 0%, 5%);
+    justify-content: center;
+}
+
+.cards {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.leftSlide, .rightSlide {
+    font-size: 1.5rem;
+    padding: 2px 4px;
+    background-color: hsla(0, 0%, 100%, 0.041);
+    color: white;
+    border-width: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.leftSlide:hover, .rightSlide:hover {
+    background-color: hsla(0, 0%, 100%, 0.276);
+}

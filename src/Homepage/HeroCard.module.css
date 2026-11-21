@@ -1,0 +1,54 @@
+
+.heroCard {
+    display: flex;
+    max-width: 1200px;
+    padding: 15px;
+    color: white;
+    background-color: hsla(0, 2%, 10%);
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+
+.heroCard:hover {
+    background-color: hsl(0, 2%, 12%);
+}
+
+.overlay {
+    margin-left: 20px;
+}
+
+.gameImage {
+    width: 70%;
+    border-radius: 5px;
+}
+
+.badge {
+    font-weight: bold;
+    color: hsl(18, 86%, 37%)
+}
+
+.actions {
+    font-size: 1rem;
+    margin-top: 60px;
+}
+
+.actions button {
+    padding: 5px 8px;
+    margin: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: white;
+    background-color: hsl(18, 86%, 37%);
+    border-width: 0px;
+    border-radius: 3px;
+}
+
+.actions button:hover {
+    background-color: hsl(18, 69%, 53%);
+}
+
+.actions span {
+    font-family: Helvetica;
+    font-size: 1rem;
+}

@@ -1,0 +1,172 @@
+.navbar {
+    font-family: sans-serif;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    width: 99%;
+    z-index: 100;
+    position: fixed;
+    align-items: center;
+}
+
+.logo {
+    margin-right: auto;
+    width: 40px;
+}
+
+.logoSection {
+    font-size: 0.8rem;
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.navLinks {
+    color: White;
+    font-size: 1rem;
+    font-weight: bold;
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    list-style: none;
+}
+
+.navLinks li {
+    cursor: pointer;
+}
+
+.navLinks li:hover {
+    color: #B7410E;
+}
+
+.activeLink {
+    color: #B7410E;
+}
+
+.searchContainer {
+    position: relative;
+    left: 18vw;
+    width: 25vw;
+}
+
+.searchInput {
+    width: 100%;
+    background: rgba(255, 255, 255, 0.06);
+    color: white;
+    font-size: 1rem;
+    border: 1px solid rgba(255, 107, 0, 0.25);
+    border-radius: 10px;
+    padding: 12px 18px;
+    outline: none;
+}
+
+.searchInput:focus {
+    border-color: #ff6b00;
+    box-shadow:
+        0 0 0 3px
+        rgba(255, 107, 0, 0.12);
+}
+
+.searchInput::placeholder {
+    color: #888;
+}
+
+.clearButton {
+    position: absolute;
+    transform: translate(1560%,-125%);
+    font-size: 1.5rem;
+    background-color: rgba(255, 255, 255, 0);
+    color: hsla(18, 86%, 39%, 0.628);
+    border-width: 0;
+    cursor: pointer;
+}
+
+.clearButton:hover {
+    color: #ca4b15;
+}
+
+.searchButton {
+    position: absolute;
+    transform: translate(1520%,-100%);
+    font-size: 1rem;
+    border-top: 0px;
+    border-bottom: 0px;
+    border-right: 0px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 4.4vh;
+    border-width: 1px;;
+    background-color: #B7410E;
+    color: white;
+    cursor: pointer;
+}
+
+.searchButton:hover {
+    background-color: white;
+    color: #B7410E;
+}
+
+
+.searchDropdown {
+    position: absolute;
+    top: 110%;
+    width: 27.2vw;
+    background: #111;
+    border: 1px solid #333;
+    border-radius: 8px;
+    overflow: hidden;
+    z-index: 1000;
+}
+
+.searchItem {
+    padding: 12px 16px;
+    color: white;
+    cursor: pointer;
+}
+
+.searchItem:hover {
+    background: rgba(255, 107, 0, 0.12);
+}
+
+.navActions {
+    color: white;
+    display: flex;
+    justify-content: left;
+    margin-left: Auto;
+}
+
+.cartButton {
+    font-weight: bold;
+    margin: 5px;
+    padding: 5px 10px;
+    background: #B7410E;
+    color: #fefefe;
+    font-size: 1.1rem;
+    border-width: 0px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.cartButton:hover {
+    background: rgb(218, 100, 50);
+    color: #fefefe;
+}
+
+.accButton {
+    font-weight: bold;
+    margin: 5px;
+    padding: 5px 10px;
+    background: #B7410E;
+    color: #fefefe;
+    font-size: 1.1rem;
+    border-width: 0px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.accButton:hover {
+    background: hsl(18, 69%, 53%);
+    color: #fefefe;
+}

@@ -1,0 +1,76 @@
+.authPage {
+    font-family: sans-serif;
+    height: 90vh;
+    background-color: hsl(0, 0%, 5%);
+    display: flex;
+    justify-content: center;
+}
+
+.authCard {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    background-color: hsl(0, 0%, 8%);
+    border: 1px solid rgba(255, 107, 0, 0.25);
+    border-radius: 14px;
+    padding: 32px 40px;
+    margin-top: 10%;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+    color: white;
+    text-align: center;
+}
+
+.authCard h1 {
+    margin-bottom: 10px;
+}
+
+.authCard p {
+    color: #aaa;
+    margin-bottom: 20px;
+}
+
+.authInput {
+    width: 100%;
+    background-color: #1a1a1a;
+    border: 1px solid #333;
+    color: white;
+    padding: 12px;
+    margin-bottom: 16px;
+    border-radius: 8px;
+    font-size: 1rem;
+}
+
+.authInput:focus {
+    border-color: #ff6b00;
+    outline: none;
+}
+
+.authButton {
+    width: 106%;
+    background-color: #B7410E;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    margin-top: 10px;
+    padding: 12px;
+    font-size: 1rem;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.authButton:hover {
+    background-color: rgb(218, 100, 50);
+}
+
+.switchText {
+    margin-top: 20px;
+    font-size: 0.95rem;
+}
+
+.switchLink {
+    color: #B7410E;
+    cursor: pointer;
+    font-weight: bold;
+}
