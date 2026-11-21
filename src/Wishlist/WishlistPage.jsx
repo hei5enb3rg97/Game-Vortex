@@ -20,7 +20,7 @@ function WishlistPage (){
     const fetchWishlist = async () => {
         const token = localStorage.getItem("token");
         const response = await fetch(
-            "http://localhost:8000/wishlist",
+            `${import.meta.env.VITE_API_URL}/wishlist`,
             {
                 method: "GET",
                 headers: {
@@ -58,7 +58,7 @@ function WishlistPage (){
         if(!token) return;
         try{
             const response = await fetch(
-                `http://localhost:8000/games/${gameId}/status`,
+                `${import.meta.env.VITE_API_URL}/games/${gameId}/status`,
                 {
                     headers:{
                         "Content-Type": "application/json",
@@ -86,7 +86,7 @@ function WishlistPage (){
         const token = localStorage.getItem("token");
         
         const response = await fetch(
-            `http://localhost:8000/wishlist/${gameId}`,
+            `${import.meta.env.VITE_API_URL}/wishlist/${gameId}`,
             {
                 method: "DELETE",
                 headers: {
@@ -116,7 +116,7 @@ function WishlistPage (){
             return;
         }
             const response = await fetch(
-                "http://localhost:8000/cart/add",
+                `${import.meta.env.VITE_API_URL}/cart/add`,
                 {
                     method: "POST",
                     headers: {
@@ -139,7 +139,7 @@ function WishlistPage (){
     const handleLibrary = async (gameId) => {
         const token = localStorage.getItem("token");
             const response = await fetch(
-                "http://localhost:8000/library/add",
+                `${import.meta.env.VITE_API_URL}/library/add`,
                 {
                     method: "POST",
                     headers: {

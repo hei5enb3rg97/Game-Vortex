@@ -12,7 +12,7 @@ function LibraryPage() {
     const fetchLibrary = async () => {
         const token = localStorage.getItem("token");
         const response = await fetch(
-            "http://localhost:8000/library",
+            `${import.meta.env.VITE_API_URL}/library`,
             {
                 method: "GET",
                 headers: {

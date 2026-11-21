@@ -21,7 +21,7 @@ function SignupPage() {
         }
 
         const response = await fetch(
-            "http://localhost:8000/register",
+            `${import.meta.env.VITE_API_URL}/register`,
             {
                 method: "POST",
                 headers: {

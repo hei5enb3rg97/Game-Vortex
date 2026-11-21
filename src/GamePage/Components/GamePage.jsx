@@ -33,7 +33,7 @@ function GamePage({ selectedAppid = null }) {
         if(!token) return;
         try{
             const response = await fetch(
-                `http://localhost:8000/games/${appId}/status`,
+                `${import.meta.env.VITE_API_URL}/games/${appId}/status`,
                 {
                     headers:{
                         "Content-Type": "application/json",
@@ -111,7 +111,7 @@ function GamePage({ selectedAppid = null }) {
                 return;
             }
             const response = await fetch(
-                "http://localhost:8000/wishlist/add",
+                `${import.meta.env.VITE_API_URL}/wishlist/add`,
                 {
                     method: "POST",
                     headers: {
@@ -141,7 +141,7 @@ function GamePage({ selectedAppid = null }) {
                 return;
             }
             const response = await fetch(
-                "http://localhost:8000/cart/add",
+                `${import.meta.env.VITE_API_URL}/cart/add`,
                 {
                     method: "POST",
                     headers: {
@@ -171,7 +171,7 @@ function GamePage({ selectedAppid = null }) {
                 return;
             }
             const response = await fetch(
-                "http://localhost:8000/library/add",
+                `${import.meta.env.VITE_API_URL}/library/add`,
                 {
                     method: "POST",
                     headers: {
@@ -194,7 +194,7 @@ function GamePage({ selectedAppid = null }) {
 
         const toggleInstall = async () => {
             try{
-                await fetch(`http://localhost:8000/library/${appId}/install`,
+                await fetch(`${import.meta.env.VITE_API_URL}/library/${appId}/install`,
                     {
                         method: "PUT",
                         headers: {
@@ -213,7 +213,7 @@ function GamePage({ selectedAppid = null }) {
 
         const handleRemoveWishlist = async () => {
             const response = await fetch(
-                `http://localhost:8000/wishlist/${appId}`,
+                `${import.meta.env.VITE_API_URL}/wishlist/${appId}`,
                 {
                     method: "DELETE",
                     headers: {

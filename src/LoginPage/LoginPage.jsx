@@ -12,7 +12,7 @@ function LoginPage() {
     const handleLogin = async (e) => {
         e.preventDefault();
         const response = await fetch(
-            "http://localhost:8000/login",
+            `${import.meta.env.VITE_API_URL}/login`,
             {
                 method: "POST",
                 headers: {

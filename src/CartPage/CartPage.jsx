@@ -19,7 +19,7 @@ function CartPage (){
     const fetchCart = async () => {
         const token = localStorage.getItem("token");
         const response = await fetch(
-            "http://localhost:8000/Cart",
+            `${import.meta.env.VITE_API_URL}/Cart`,
             {
                 method: "GET",
                 headers: {
@@ -56,7 +56,7 @@ function CartPage (){
         const token = localStorage.getItem("token");
         
         const response = await fetch(
-            `http://localhost:8000/Cart/${gameId}`,
+            `${import.meta.env.VITE_API_URL}/Cart/${gameId}`,
             {
                 method: "DELETE",
                 headers: {
@@ -83,7 +83,7 @@ function CartPage (){
         try {
             const response =
             await fetch(
-                "http://localhost:8000/checkout",
+                `${import.meta.env.VITE_API_URL}/checkout`,
                 {
                     method: "POST",
                     headers: {

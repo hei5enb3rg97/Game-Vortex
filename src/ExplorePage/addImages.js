@@ -11,7 +11,7 @@ async function updateGames(){
         try{
 
             const response = await fetch(
-                `http://localhost:8000/Grid/${game.appid}`
+                `${import.meta.env.VITE_API_URL}/Grid/${game.appid}`
             );
 
             const data = await response.json();
