@@ -156,9 +156,48 @@ async function startServer() {
 
 startServer();
 
-app.use(cors());
+const allowedOrigins = [
+    "http://localhost:5173",
+    "https://game-vortex-omega.vercel.app"
+];
+
+app.use(cors({
+    origin: allowedOrigins,
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    allowedHeaders: ["Content-Type", "Authorization"]
+}));
 app.use(express.json());
 
+app.get("/steam/appdetails/:appId", async (req, res) => {
+    try {
+        const { appId } = req.params;
+
+        if (!/^\d+$/.test(appId)) {
+            return res.status(400).json({
+                error: "Invalid Steam App ID"
+            });
+        }
+
+        const response = await fetch(
+            `https://store.steampowered.com/api/appdetails?appids=${appId}`
+        );
+
+        if (!response.ok) {
+            return res.status(response.status).json({
+                error: "Steam API request failed"
+            });
+        }
+
+        const data = await response.json();
+
+        res.json(data);
+    } catch (error) {
+        console.error("Steam API error:", error);
+        res.status(500).json({
+            error: "Failed to retrieve game details"
+        });
+    }
+});
 
 app.post("/register", async (req, res) => {
     try {

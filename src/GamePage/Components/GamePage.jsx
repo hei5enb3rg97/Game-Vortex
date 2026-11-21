@@ -57,15 +57,23 @@ function GamePage({ selectedAppid = null }) {
     const [current, setCurrent] = useState(0);
 
     useEffect(() => {
-        fetch(
-            `https://store.steampowered.com/api/appdetails?appids=${appId}`
-        )
-        .then((response) => response.json())
-        .then((data) => {
-            const game = data[appId].data;
-            setGame(game);
-        });
-    }, [appId]);
+    fetch(
+        `${import.meta.env.VITE_API_URL}/steam/appdetails/${appId}`
+    )
+    .then((response) => {
+        if (!response.ok) {
+            throw new Error("Failed to fetch game details");
+        }
+        return response.json();
+    })
+    .then((data) => {
+        const game = data[appId].data;
+        setGame(game);
+    })
+    .catch((error) => {
+        console.error("Game details error:", error);
+    });
+}, [appId]);
 
     if(game){
         const media = [
